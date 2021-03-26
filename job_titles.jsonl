@@ -1,0 +1,1017 @@
+{"label":"SKILL|abstractor","pattern":[{"LOWER": "abstractor"}]}
+{"label":"SKILL|academic-advisor","pattern":[{"LOWER": "academic"}, {"LOWER": "advisor"}]}
+{"label":"SKILL|account-coordinator","pattern":[{"LOWER": "account"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|account-executive","pattern":[{"LOWER": "account"}, {"LOWER": "executive"}]}
+{"label":"SKILL|account-manager","pattern":[{"LOWER": "account"}, {"LOWER": "manager"}]}
+{"label":"SKILL|accountant","pattern":[{"LOWER": "accountant"}]}
+{"label":"SKILL|accounting-assistant","pattern":[{"LOWER": "accounting"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|accounting-clerk","pattern":[{"LOWER": "accounting"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|accounting-professor","pattern":[{"LOWER": "accounting"}, {"LOWER": "professor"}]}
+{"label":"SKILL|activities-assistant","pattern":[{"LOWER": "activities"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|activities-coordinator","pattern":[{"LOWER": "activities"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|activities-director","pattern":[{"LOWER": "activities"}, {"LOWER": "director"}]}
+{"label":"SKILL|activity-director","pattern":[{"LOWER": "activity"}, {"LOWER": "director"}]}
+{"label":"SKILL|actor","pattern":[{"LOWER": "actor"}]}
+{"label":"SKILL|actuarial-analyst","pattern":[{"LOWER": "actuarial"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|adjunct-faculty","pattern":[{"LOWER": "adjunct"}, {"LOWER": "faculty"}]}
+{"label":"SKILL|adjunct-instructor","pattern":[{"LOWER": "adjunct"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|adjunct-professor","pattern":[{"LOWER": "adjunct"}, {"LOWER": "professor"}]}
+{"label":"SKILL|administrative-assistant","pattern":[{"LOWER": "administrative"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|administrative-coordinator","pattern":[{"LOWER": "administrative"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|admissions-counselor","pattern":[{"LOWER": "admissions"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|aerospace-engineer","pattern":[{"LOWER": "aerospace"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|agronomist","pattern":[{"LOWER": "agronomist"}]}
+{"label":"SKILL|aide","pattern":[{"LOWER": "aide"}]}
+{"label":"SKILL|aircraft-mechanic","pattern":[{"LOWER": "aircraft"}, {"LOWER": "mechanic"}]}
+{"label":"SKILL|ambassador","pattern":[{"LOWER": "ambassador"}]}
+{"label":"SKILL|analytical-chemist","pattern":[{"LOWER": "analytical"}, {"LOWER": "chemist"}]}
+{"label":"SKILL|android-developer","pattern":[{"LOWER": "android"}, {"LOWER": "developer"}]}
+{"label":"SKILL|anesthesiologist","pattern":[{"LOWER": "anesthesiologist"}]}
+{"label":"SKILL|apartment-manager","pattern":[{"LOWER": "apartment"}, {"LOWER": "manager"}]}
+{"label":"SKILL|application-analyst","pattern":[{"LOWER": "application"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|application-developer","pattern":[{"LOWER": "application"}, {"LOWER": "developer"}]}
+{"label":"SKILL|appointment-setter","pattern":[{"LOWER": "appointment"}, {"LOWER": "setter"}]}
+{"label":"SKILL|appraiser","pattern":[{"LOWER": "appraiser"}]}
+{"label":"SKILL|architect","pattern":[{"LOWER": "architect"}]}
+{"label":"SKILL|architectural-designer","pattern":[{"LOWER": "architectural"}, {"LOWER": "designer"}]}
+{"label":"SKILL|army-national-guard","pattern":[{"LOWER": "army"}, {"LOWER": "national"}, {"LOWER": "guard"}]}
+{"label":"SKILL|army-officer","pattern":[{"LOWER": "army"}, {"LOWER": "officer"}]}
+{"label":"SKILL|art-assistant","pattern":[{"LOWER": "art"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|art-director","pattern":[{"LOWER": "art"}, {"LOWER": "director"}]}
+{"label":"SKILL|artist","pattern":[{"LOWER": "artist"}]}
+{"label":"SKILL|assistant","pattern":[{"LOWER": "assistant"}]}
+{"label":"SKILL|assistant-buyer","pattern":[{"LOWER": "assistant"}, {"LOWER": "buyer"}]}
+{"label":"SKILL|assistant-controller","pattern":[{"LOWER": "assistant"}, {"LOWER": "controller"}]}
+{"label":"SKILL|assistant-director","pattern":[{"LOWER": "assistant"}, {"LOWER": "director"}]}
+{"label":"SKILL|assistant-manager","pattern":[{"LOWER": "assistant"}, {"LOWER": "manager"}]}
+{"label":"SKILL|assistant-principal","pattern":[{"LOWER": "assistant"}, {"LOWER": "principal"}]}
+{"label":"SKILL|assistant-property-manager","pattern":[{"LOWER": "assistant"}, {"LOWER": "property"}, {"LOWER": "manager"}]}
+{"label":"SKILL|assistant-store-manager","pattern":[{"LOWER": "assistant"}, {"LOWER": "store"}, {"LOWER": "manager"}]}
+{"label":"SKILL|assistant-superintendent","pattern":[{"LOWER": "assistant"}, {"LOWER": "superintendent"}]}
+{"label":"SKILL|assistant-teacher","pattern":[{"LOWER": "assistant"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|athletic-trainer","pattern":[{"LOWER": "athletic"}, {"LOWER": "trainer"}]}
+{"label":"SKILL|attorney","pattern":[{"LOWER": "attorney"}]}
+{"label":"SKILL|audio-engineer","pattern":[{"LOWER": "audio"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|audio-technician","pattern":[{"LOWER": "audio"}, {"LOWER": "technician"}]}
+{"label":"SKILL|audio-visual-technician","pattern":[{"LOWER": "audio"}, {"LOWER": "visual"}, {"LOWER": "technician"}]}
+{"label":"SKILL|auditor","pattern":[{"LOWER": "auditor"}]}
+{"label":"SKILL|autocad-drafter","pattern":[{"LOWER": "autocad"}, {"LOWER": "drafter"}]}
+{"label":"SKILL|automation-engineer","pattern":[{"LOWER": "automation"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|automotive-instructor","pattern":[{"LOWER": "automotive"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|automotive-service-manager","pattern":[{"LOWER": "automotive"}, {"LOWER": "service"}, {"LOWER": "manager"}]}
+{"label":"SKILL|automotive-technician","pattern":[{"LOWER": "automotive"}, {"LOWER": "technician"}]}
+{"label":"SKILL|avionics-technician","pattern":[{"LOWER": "avionics"}, {"LOWER": "technician"}]}
+{"label":"SKILL|babysitter","pattern":[{"LOWER": "babysitter"}]}
+{"label":"SKILL|background-investigator","pattern":[{"LOWER": "background"}, {"LOWER": "investigator"}]}
+{"label":"SKILL|bailiff","pattern":[{"LOWER": "bailiff"}]}
+{"label":"SKILL|baker","pattern":[{"LOWER": "baker"}]}
+{"label":"SKILL|bank-manager","pattern":[{"LOWER": "bank"}, {"LOWER": "manager"}]}
+{"label":"SKILL|bank-teller","pattern":[{"LOWER": "bank"}, {"LOWER": "teller"}]}
+{"label":"SKILL|banker","pattern":[{"LOWER": "banker"}]}
+{"label":"SKILL|banquet-manager","pattern":[{"LOWER": "banquet"}, {"LOWER": "manager"}]}
+{"label":"SKILL|banquet-server","pattern":[{"LOWER": "banquet"}, {"LOWER": "server"}]}
+{"label":"SKILL|bar","pattern":[{"LOWER": "bar"}]}
+{"label":"SKILL|bar-back","pattern":[{"LOWER": "bar"}, {"LOWER": "back"}]}
+{"label":"SKILL|bar-manager","pattern":[{"LOWER": "bar"}, {"LOWER": "manager"}]}
+{"label":"SKILL|barber","pattern":[{"LOWER": "barber"}]}
+{"label":"SKILL|barista","pattern":[{"LOWER": "barista"}]}
+{"label":"SKILL|bartender","pattern":[{"LOWER": "bartender"}]}
+{"label":"SKILL|beauty","pattern":[{"LOWER": "beauty"}]}
+{"label":"SKILL|behavior-analyst","pattern":[{"LOWER": "behavior"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|behavior-specialist","pattern":[{"LOWER": "behavior"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|behavioral-health-technician","pattern":[{"LOWER": "behavioral"}, {"LOWER": "health"}, {"LOWER": "technician"}]}
+{"label":"SKILL|big-data-engineer","pattern":[{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|billing-specialist","pattern":[{"LOWER": "billing"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|biological-technician","pattern":[{"LOWER": "biological"}, {"LOWER": "technician"}]}
+{"label":"SKILL|biologist","pattern":[{"LOWER": "biologist"}]}
+{"label":"SKILL|biomedical-engineer","pattern":[{"LOWER": "biomedical"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|biomedical-equipment-technician","pattern":[{"LOWER": "biomedical"}, {"LOWER": "equipment"}, {"LOWER": "technician"}]}
+{"label":"SKILL|biomedical-scientist","pattern":[{"LOWER": "biomedical"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|biostatistician","pattern":[{"LOWER": "biostatistician"}]}
+{"label":"SKILL|booking-agent","pattern":[{"LOWER": "booking"}, {"LOWER": "agent"}]}
+{"label":"SKILL|bookkeeper","pattern":[{"LOWER": "bookkeeper"}]}
+{"label":"SKILL|branch-manager","pattern":[{"LOWER": "branch"}, {"LOWER": "manager"}]}
+{"label":"SKILL|brand-ambassador","pattern":[{"LOWER": "brand"}, {"LOWER": "ambassador"}]}
+{"label":"SKILL|brand-manager","pattern":[{"LOWER": "brand"}, {"LOWER": "manager"}]}
+{"label":"SKILL|brewer","pattern":[{"LOWER": "brewer"}]}
+{"label":"SKILL|broker","pattern":[{"LOWER": "broker"}]}
+{"label":"SKILL|budget-analyst","pattern":[{"LOWER": "budget"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|building-engineer","pattern":[{"LOWER": "building"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|building-inspector","pattern":[{"LOWER": "building"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|bus-driver","pattern":[{"LOWER": "bus"}, {"LOWER": "driver"}]}
+{"label":"SKILL|business-analyst","pattern":[{"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|business-consultant","pattern":[{"LOWER": "business"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|business-intelligence-analyst","pattern":[{"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|busser","pattern":[{"LOWER": "busser"}]}
+{"label":"SKILL|butcher","pattern":[{"LOWER": "butcher"}]}
+{"label":"SKILL|butler","pattern":[{"LOWER": "butler"}]}
+{"label":"SKILL|c#-developer","pattern":[{"LOWER": "c#"}, {"LOWER": "developer"}]}
+{"label":"SKILL|c++-developer","pattern":[{"LOWER": "c++"}, {"LOWER": "developer"}]}
+{"label":"SKILL|cabin-crew","pattern":[{"LOWER": "cabin"}, {"LOWER": "crew"}]}
+{"label":"SKILL|cabinet-installer","pattern":[{"LOWER": "cabinet"}, {"LOWER": "installer"}]}
+{"label":"SKILL|cable-technician","pattern":[{"LOWER": "cable"}, {"LOWER": "technician"}]}
+{"label":"SKILL|cad-technician","pattern":[{"LOWER": "cad"}, {"LOWER": "technician"}]}
+{"label":"SKILL|call-center-manager","pattern":[{"LOWER": "call"}, {"LOWER": "center"}, {"LOWER": "manager"}]}
+{"label":"SKILL|call-center-representative","pattern":[{"LOWER": "call"}, {"LOWER": "center"}, {"LOWER": "representative"}]}
+{"label":"SKILL|camp-director","pattern":[{"LOWER": "camp"}, {"LOWER": "director"}]}
+{"label":"SKILL|cardiologist","pattern":[{"LOWER": "cardiologist"}]}
+{"label":"SKILL|cardiovascular-technologist","pattern":[{"LOWER": "cardiovascular"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|care-coordinator","pattern":[{"LOWER": "care"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|care-manager","pattern":[{"LOWER": "care"}, {"LOWER": "manager"}]}
+{"label":"SKILL|career-coach","pattern":[{"LOWER": "career"}, {"LOWER": "coach"}]}
+{"label":"SKILL|career-counselor","pattern":[{"LOWER": "career"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|caregiver","pattern":[{"LOWER": "caregiver"}]}
+{"label":"SKILL|caretaker","pattern":[{"LOWER": "caretaker"}]}
+{"label":"SKILL|carpenter","pattern":[{"LOWER": "carpenter"}]}
+{"label":"SKILL|cartoonist","pattern":[{"LOWER": "cartoonist"}]}
+{"label":"SKILL|case-manager","pattern":[{"LOWER": "case"}, {"LOWER": "manager"}]}
+{"label":"SKILL|caseworker","pattern":[{"LOWER": "caseworker"}]}
+{"label":"SKILL|cashier","pattern":[{"LOWER": "cashier"}]}
+{"label":"SKILL|ceo","pattern":[{"LOWER": "ceo"}]}
+{"label":"SKILL|certified-medical-assistant","pattern":[{"LOWER": "certified"}, {"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|certified-occupational-therapy-assistant","pattern":[{"LOWER": "certified"}, {"LOWER": "occupational"}, {"LOWER": "therapy"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|certified-welding-inspector","pattern":[{"LOWER": "certified"}, {"LOWER": "welding"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|cfo","pattern":[{"LOWER": "cfo"}]}
+{"label":"SKILL|chaplain","pattern":[{"LOWER": "chaplain"}]}
+{"label":"SKILL|chauffeur","pattern":[{"LOWER": "chauffeur"}]}
+{"label":"SKILL|chef","pattern":[{"LOWER": "chef"}]}
+{"label":"SKILL|chemical-engineer","pattern":[{"LOWER": "chemical"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|chemical-operator","pattern":[{"LOWER": "chemical"}, {"LOWER": "operator"}]}
+{"label":"SKILL|chemical-technician","pattern":[{"LOWER": "chemical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|chemist","pattern":[{"LOWER": "chemist"}]}
+{"label":"SKILL|chief-engineer","pattern":[{"LOWER": "chief"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|chief-marketing-officer","pattern":[{"LOWER": "chief"}, {"LOWER": "marketing"}, {"LOWER": "officer"}]}
+{"label":"SKILL|chief-medical-officer","pattern":[{"LOWER": "chief"}, {"LOWER": "medical"}, {"LOWER": "officer"}]}
+{"label":"SKILL|chief-nursing-officer","pattern":[{"LOWER": "chief"}, {"LOWER": "nursing"}, {"LOWER": "officer"}]}
+{"label":"SKILL|chief-of-police","pattern":[{"LOWER": "chief"}, {"LOWER": "of"}, {"LOWER": "police"}]}
+{"label":"SKILL|chief-of-staff","pattern":[{"LOWER": "chief"}, {"LOWER": "of"}, {"LOWER": "staff"}]}
+{"label":"SKILL|child-care-director","pattern":[{"LOWER": "child"}, {"LOWER": "care"}, {"LOWER": "director"}]}
+{"label":"SKILL|child-care-worker","pattern":[{"LOWER": "child"}, {"LOWER": "care"}, {"LOWER": "worker"}]}
+{"label":"SKILL|child-life-specialist","pattern":[{"LOWER": "child"}, {"LOWER": "life"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|chinese-translator","pattern":[{"LOWER": "chinese"}, {"LOWER": "translator"}]}
+{"label":"SKILL|civil-engineer","pattern":[{"LOWER": "civil"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|claims-adjuster","pattern":[{"LOWER": "claims"}, {"LOWER": "adjuster"}]}
+{"label":"SKILL|clergy","pattern":[{"LOWER": "clergy"}]}
+{"label":"SKILL|clerk","pattern":[{"LOWER": "clerk"}]}
+{"label":"SKILL|clinical-assistant","pattern":[{"LOWER": "clinical"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|clinical-coordinator","pattern":[{"LOWER": "clinical"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|clinical-documentation-specialist","pattern":[{"LOWER": "clinical"}, {"LOWER": "documentation"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|clinical-laboratory-scientist","pattern":[{"LOWER": "clinical"}, {"LOWER": "laboratory"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|clinical-nurse-leader","pattern":[{"LOWER": "clinical"}, {"LOWER": "nurse"}, {"LOWER": "leader"}]}
+{"label":"SKILL|clinical-research-associate","pattern":[{"LOWER": "clinical"}, {"LOWER": "research"}, {"LOWER": "associate"}]}
+{"label":"SKILL|clinical-research-coordinator","pattern":[{"LOWER": "clinical"}, {"LOWER": "research"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|clinical-social-worker","pattern":[{"LOWER": "clinical"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label":"SKILL|clinical-specialist","pattern":[{"LOWER": "clinical"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|cna","pattern":[{"LOWER": "cna"}]}
+{"label":"SKILL|cnc-machinist","pattern":[{"LOWER": "cnc"}, {"LOWER": "machinist"}]}
+{"label":"SKILL|cnc-operator","pattern":[{"LOWER": "cnc"}, {"LOWER": "operator"}]}
+{"label":"SKILL|coach","pattern":[{"LOWER": "coach"}]}
+{"label":"SKILL|cocktail-server","pattern":[{"LOWER": "cocktail"}, {"LOWER": "server"}]}
+{"label":"SKILL|coder","pattern":[{"LOWER": "coder"}]}
+{"label":"SKILL|college-counselor","pattern":[{"LOWER": "college"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|communications","pattern":[{"LOWER": "communications"}]}
+{"label":"SKILL|communications-director","pattern":[{"LOWER": "communications"}, {"LOWER": "director"}]}
+{"label":"SKILL|communications-manager","pattern":[{"LOWER": "communications"}, {"LOWER": "manager"}]}
+{"label":"SKILL|communications-specialist","pattern":[{"LOWER": "communications"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|community-health-worker","pattern":[{"LOWER": "community"}, {"LOWER": "health"}, {"LOWER": "worker"}]}
+{"label":"SKILL|community-liaison","pattern":[{"LOWER": "community"}, {"LOWER": "liaison"}]}
+{"label":"SKILL|community-manager","pattern":[{"LOWER": "community"}, {"LOWER": "manager"}]}
+{"label":"SKILL|compliance-officer","pattern":[{"LOWER": "compliance"}, {"LOWER": "officer"}]}
+{"label":"SKILL|composer","pattern":[{"LOWER": "composer"}]}
+{"label":"SKILL|computer-aided-design","pattern":[{"LOWER": "computer"}, {"LOWER": "aided"}, {"LOWER": "design"}]}
+{"label":"SKILL|computer-hardware","pattern":[{"LOWER": "computer"}, {"LOWER": "hardware"}]}
+{"label":"SKILL|computer-operator","pattern":[{"LOWER": "computer"}, {"LOWER": "operator"}]}
+{"label":"SKILL|computer-scientist","pattern":[{"LOWER": "computer"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|computer-technician","pattern":[{"LOWER": "computer"}, {"LOWER": "technician"}]}
+{"label":"SKILL|concierge","pattern":[{"LOWER": "concierge"}]}
+{"label":"SKILL|construction-estimator","pattern":[{"LOWER": "construction"}, {"LOWER": "estimator"}]}
+{"label":"SKILL|construction-inspector","pattern":[{"LOWER": "construction"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|construction-laborer","pattern":[{"LOWER": "construction"}, {"LOWER": "laborer"}]}
+{"label":"SKILL|construction-manager","pattern":[{"LOWER": "construction"}, {"LOWER": "manager"}]}
+{"label":"SKILL|construction-superintendent","pattern":[{"LOWER": "construction"}, {"LOWER": "superintendent"}]}
+{"label":"SKILL|construction-worker","pattern":[{"LOWER": "construction"}, {"LOWER": "worker"}]}
+{"label":"SKILL|consultant","pattern":[{"LOWER": "consultant"}]}
+{"label":"SKILL|content-editor","pattern":[{"LOWER": "content"}, {"LOWER": "editor"}]}
+{"label":"SKILL|content-manager","pattern":[{"LOWER": "content"}, {"LOWER": "manager"}]}
+{"label":"SKILL|content-writer","pattern":[{"LOWER": "content"}, {"LOWER": "writer"}]}
+{"label":"SKILL|contract-attorney","pattern":[{"LOWER": "contract"}, {"LOWER": "attorney"}]}
+{"label":"SKILL|contract-specialist","pattern":[{"LOWER": "contract"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|controls-engineer","pattern":[{"LOWER": "controls"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|coo","pattern":[{"LOWER": "coo"}]}
+{"label":"SKILL|cook","pattern":[{"LOWER": "cook"}]}
+{"label":"SKILL|coordinator","pattern":[{"LOWER": "coordinator"}]}
+{"label":"SKILL|copier-technician","pattern":[{"LOWER": "copier"}, {"LOWER": "technician"}]}
+{"label":"SKILL|copywriter","pattern":[{"LOWER": "copywriter"}]}
+{"label":"SKILL|corporate-counsel","pattern":[{"LOWER": "corporate"}, {"LOWER": "counsel"}]}
+{"label":"SKILL|corporate-trainer","pattern":[{"LOWER": "corporate"}, {"LOWER": "trainer"}]}
+{"label":"SKILL|correctional-counselor","pattern":[{"LOWER": "correctional"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|correctional-officer","pattern":[{"LOWER": "correctional"}, {"LOWER": "officer"}]}
+{"label":"SKILL|corrections-officer","pattern":[{"LOWER": "corrections"}, {"LOWER": "officer"}]}
+{"label":"SKILL|cosmetology-instructor","pattern":[{"LOWER": "cosmetology"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|cost-estimator","pattern":[{"LOWER": "cost"}, {"LOWER": "estimator"}]}
+{"label":"SKILL|counselor","pattern":[{"LOWER": "counselor"}]}
+{"label":"SKILL|courier","pattern":[{"LOWER": "courier"}]}
+{"label":"SKILL|court-officer","pattern":[{"LOWER": "court"}, {"LOWER": "officer"}]}
+{"label":"SKILL|court-reporter","pattern":[{"LOWER": "court"}, {"LOWER": "reporter"}]}
+{"label":"SKILL|crane-operator","pattern":[{"LOWER": "crane"}, {"LOWER": "operator"}]}
+{"label":"SKILL|creative","pattern":[{"LOWER": "creative"}]}
+{"label":"SKILL|creative-director","pattern":[{"LOWER": "creative"}, {"LOWER": "director"}]}
+{"label":"SKILL|credit-analyst","pattern":[{"LOWER": "credit"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|criminal-justice-instructor","pattern":[{"LOWER": "criminal"}, {"LOWER": "justice"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|crisis-counselor","pattern":[{"LOWER": "crisis"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|cro","pattern":[{"LOWER": "cro"}]}
+{"label":"SKILL|cto","pattern":[{"LOWER": "cto"}]}
+{"label":"SKILL|custodian","pattern":[{"LOWER": "custodian"}]}
+{"label":"SKILL|customer-service","pattern":[{"LOWER": "customer"}, {"LOWER": "service"}]}
+{"label":"SKILL|customer-service-manager","pattern":[{"LOWER": "customer"}, {"LOWER": "service"}, {"LOWER": "manager"}]}
+{"label":"SKILL|customer-service-representative","pattern":[{"LOWER": "customer"}, {"LOWER": "service"}, {"LOWER": "representative"}]}
+{"label":"SKILL|customs-broker","pattern":[{"LOWER": "customs"}, {"LOWER": "broker"}]}
+{"label":"SKILL|cyber-security-analyst","pattern":[{"LOWER": "cyber"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|cyber-security-engineer","pattern":[{"LOWER": "cyber"}, {"LOWER": "security"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|cytotechnologist","pattern":[{"LOWER": "cytotechnologist"}]}
+{"label":"SKILL|data-analyst","pattern":[{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|data-architect","pattern":[{"LOWER": "data"}, {"LOWER": "architect"}]}
+{"label":"SKILL|data-center-technician","pattern":[{"LOWER": "data"}, {"LOWER": "center"}, {"LOWER": "technician"}]}
+{"label":"SKILL|data-engineer","pattern":[{"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|data-entry","pattern":[{"LOWER": "data"}, {"LOWER": "entry"}]}
+{"label":"SKILL|data-entry-clerk","pattern":[{"LOWER": "data"}, {"LOWER": "entry"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|data-scientist","pattern":[{"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|database-administrator","pattern":[{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|database-analyst","pattern":[{"LOWER": "database"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|database-developer","pattern":[{"LOWER": "database"}, {"LOWER": "developer"}]}
+{"label":"SKILL|debt-collector","pattern":[{"LOWER": "debt"}, {"LOWER": "collector"}]}
+{"label":"SKILL|delivery-driver","pattern":[{"LOWER": "delivery"}, {"LOWER": "driver"}]}
+{"label":"SKILL|dental-assistant","pattern":[{"LOWER": "dental"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|dental-hygienist","pattern":[{"LOWER": "dental"}, {"LOWER": "hygienist"}]}
+{"label":"SKILL|dentist","pattern":[{"LOWER": "dentist"}]}
+{"label":"SKILL|design-engineer","pattern":[{"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|designer","pattern":[{"LOWER": "designer"}]}
+{"label":"SKILL|desktop-support","pattern":[{"LOWER": "desktop"}, {"LOWER": "support"}]}
+{"label":"SKILL|desktop-support-technician","pattern":[{"LOWER": "desktop"}, {"LOWER": "support"}, {"LOWER": "technician"}]}
+{"label":"SKILL|detective","pattern":[{"LOWER": "detective"}]}
+{"label":"SKILL|detention-officer","pattern":[{"LOWER": "detention"}, {"LOWER": "officer"}]}
+{"label":"SKILL|developer","pattern":[{"LOWER": "developer"}]}
+{"label":"SKILL|devops-engineer","pattern":[{"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|diabetes-educator","pattern":[{"LOWER": "diabetes"}, {"LOWER": "educator"}]}
+{"label":"SKILL|dialysis-nurse","pattern":[{"LOWER": "dialysis"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|dialysis-technician","pattern":[{"LOWER": "dialysis"}, {"LOWER": "technician"}]}
+{"label":"SKILL|diesel-mechanic","pattern":[{"LOWER": "diesel"}, {"LOWER": "mechanic"}]}
+{"label":"SKILL|diesel-technician","pattern":[{"LOWER": "diesel"}, {"LOWER": "technician"}]}
+{"label":"SKILL|dietary-aide","pattern":[{"LOWER": "dietary"}, {"LOWER": "aide"}]}
+{"label":"SKILL|dietitian","pattern":[{"LOWER": "dietitian"}]}
+{"label":"SKILL|direct-support-professional","pattern":[{"LOWER": "direct"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label":"SKILL|director","pattern":[{"LOWER": "director"}]}
+{"label":"SKILL|director-of-engineering","pattern":[{"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "engineering"}]}
+{"label":"SKILL|director-of-nursing","pattern":[{"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "nursing"}]}
+{"label":"SKILL|director-of-operations","pattern":[{"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "operations"}]}
+{"label":"SKILL|director-of-security","pattern":[{"LOWER": "director"}, {"LOWER": "of"}, {"LOWER": "security"}]}
+{"label":"SKILL|dishwasher","pattern":[{"LOWER": "dishwasher"}]}
+{"label":"SKILL|dispatcher","pattern":[{"LOWER": "dispatcher"}]}
+{"label":"SKILL|district-attorney","pattern":[{"LOWER": "district"}, {"LOWER": "attorney"}]}
+{"label":"SKILL|district-manager","pattern":[{"LOWER": "district"}, {"LOWER": "manager"}]}
+{"label":"SKILL|dj","pattern":[{"LOWER": "dj"}]}
+{"label":"SKILL|dock-worker","pattern":[{"LOWER": "dock"}, {"LOWER": "worker"}]}
+{"label":"SKILL|doctor","pattern":[{"LOWER": "doctor"}]}
+{"label":"SKILL|drafter","pattern":[{"LOWER": "drafter"}]}
+{"label":"SKILL|driver","pattern":[{"LOWER": "driver"}]}
+{"label":"SKILL|driver-helper","pattern":[{"LOWER": "driver"}, {"LOWER": "helper"}]}
+{"label":"SKILL|driving-instructor","pattern":[{"LOWER": "driving"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|editor","pattern":[{"LOWER": "editor"}]}
+{"label":"SKILL|editorial-assistant","pattern":[{"LOWER": "editorial"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|education-consultant","pattern":[{"LOWER": "education"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|education-coordinator","pattern":[{"LOWER": "education"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|education-specialist","pattern":[{"LOWER": "education"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|electrical-apprentice","pattern":[{"LOWER": "electrical"}, {"LOWER": "apprentice"}]}
+{"label":"SKILL|electrical-engineer","pattern":[{"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|electrical-estimator","pattern":[{"LOWER": "electrical"}, {"LOWER": "estimator"}]}
+{"label":"SKILL|electrical-helper","pattern":[{"LOWER": "electrical"}, {"LOWER": "helper"}]}
+{"label":"SKILL|electrical-inspector","pattern":[{"LOWER": "electrical"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|electrical-technician","pattern":[{"LOWER": "electrical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|electrician","pattern":[{"LOWER": "electrician"}]}
+{"label":"SKILL|electrician-apprentice","pattern":[{"LOWER": "electrician"}, {"LOWER": "apprentice"}]}
+{"label":"SKILL|electrician-helper","pattern":[{"LOWER": "electrician"}, {"LOWER": "helper"}]}
+{"label":"SKILL|electro-mechanical-technician","pattern":[{"LOWER": "electro"}, {"LOWER": "mechanical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|electronic-technician","pattern":[{"LOWER": "electronic"}, {"LOWER": "technician"}]}
+{"label":"SKILL|electronics","pattern":[{"LOWER": "electronics"}]}
+{"label":"SKILL|electronics-engineer","pattern":[{"LOWER": "electronics"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|electronics-technician","pattern":[{"LOWER": "electronics"}, {"LOWER": "technician"}]}
+{"label":"SKILL|elementary-school-teacher","pattern":[{"LOWER": "elementary"}, {"LOWER": "school"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|emergency-department-technician","pattern":[{"LOWER": "emergency"}, {"LOWER": "department"}, {"LOWER": "technician"}]}
+{"label":"SKILL|emergency-medical-technician","pattern":[{"LOWER": "emergency"}, {"LOWER": "medical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|emergency-room-technician","pattern":[{"LOWER": "emergency"}, {"LOWER": "room"}, {"LOWER": "technician"}]}
+{"label":"SKILL|energy-analyst","pattern":[{"LOWER": "energy"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|energy-engineer","pattern":[{"LOWER": "energy"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|engineer-technician","pattern":[{"LOWER": "engineer"}, {"LOWER": "technician"}]}
+{"label":"SKILL|engineering-consultant","pattern":[{"LOWER": "engineering"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|engineering-manager","pattern":[{"LOWER": "engineering"}, {"LOWER": "manager"}]}
+{"label":"SKILL|engineering-technician","pattern":[{"LOWER": "engineering"}, {"LOWER": "technician"}]}
+{"label":"SKILL|english-professor","pattern":[{"LOWER": "english"}, {"LOWER": "professor"}]}
+{"label":"SKILL|english-teacher","pattern":[{"LOWER": "english"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|english-tutor","pattern":[{"LOWER": "english"}, {"LOWER": "tutor"}]}
+{"label":"SKILL|enterprise-architect","pattern":[{"LOWER": "enterprise"}, {"LOWER": "architect"}]}
+{"label":"SKILL|entry-level-electrical-engineer","pattern":[{"LOWER": "entry"}, {"LOWER": "level"}, {"LOWER": "electrical"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|entry-level-sales","pattern":[{"LOWER": "entry"}, {"LOWER": "level"}, {"LOWER": "sales"}]}
+{"label":"SKILL|environmental-analyst","pattern":[{"LOWER": "environmental"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|environmental-consultant","pattern":[{"LOWER": "environmental"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|environmental-engineer","pattern":[{"LOWER": "environmental"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|environmental-manager","pattern":[{"LOWER": "environmental"}, {"LOWER": "manager"}]}
+{"label":"SKILL|environmental-scientist","pattern":[{"LOWER": "environmental"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|environmental-specialist","pattern":[{"LOWER": "environmental"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|environmental-technician","pattern":[{"LOWER": "environmental"}, {"LOWER": "technician"}]}
+{"label":"SKILL|epidemiologist","pattern":[{"LOWER": "epidemiologist"}]}
+{"label":"SKILL|equipment-operator","pattern":[{"LOWER": "equipment"}, {"LOWER": "operator"}]}
+{"label":"SKILL|equity-analyst","pattern":[{"LOWER": "equity"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|equity-research-analyst","pattern":[{"LOWER": "equity"}, {"LOWER": "research"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|esthetician","pattern":[{"LOWER": "esthetician"}]}
+{"label":"SKILL|estimator","pattern":[{"LOWER": "estimator"}]}
+{"label":"SKILL|etl-developer","pattern":[{"LOWER": "etl"}, {"LOWER": "developer"}]}
+{"label":"SKILL|event-coordinator","pattern":[{"LOWER": "event"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|event-manager","pattern":[{"LOWER": "event"}, {"LOWER": "manager"}]}
+{"label":"SKILL|event-planner","pattern":[{"LOWER": "event"}, {"LOWER": "planner"}]}
+{"label":"SKILL|executive","pattern":[{"LOWER": "executive"}]}
+{"label":"SKILL|executive-administrative-assistant","pattern":[{"LOWER": "executive"}, {"LOWER": "administrative"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|executive-assistant","pattern":[{"LOWER": "executive"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|executive-chef","pattern":[{"LOWER": "executive"}, {"LOWER": "chef"}]}
+{"label":"SKILL|executive-director","pattern":[{"LOWER": "executive"}, {"LOWER": "director"}]}
+{"label":"SKILL|expeditor","pattern":[{"LOWER": "expeditor"}]}
+{"label":"SKILL|facilitator","pattern":[{"LOWER": "facilitator"}]}
+{"label":"SKILL|facilities-manager","pattern":[{"LOWER": "facilities"}, {"LOWER": "manager"}]}
+{"label":"SKILL|facility-manager","pattern":[{"LOWER": "facility"}, {"LOWER": "manager"}]}
+{"label":"SKILL|faculty","pattern":[{"LOWER": "faculty"}]}
+{"label":"SKILL|farm","pattern":[{"LOWER": "farm"}]}
+{"label":"SKILL|farm-manager","pattern":[{"LOWER": "farm"}, {"LOWER": "manager"}]}
+{"label":"SKILL|farmer","pattern":[{"LOWER": "farmer"}]}
+{"label":"SKILL|field-engineer","pattern":[{"LOWER": "field"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|field-inspector","pattern":[{"LOWER": "field"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|field-service-engineer","pattern":[{"LOWER": "field"}, {"LOWER": "service"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|field-service-technician","pattern":[{"LOWER": "field"}, {"LOWER": "service"}, {"LOWER": "technician"}]}
+{"label":"SKILL|field-technician","pattern":[{"LOWER": "field"}, {"LOWER": "technician"}]}
+{"label":"SKILL|file-clerk","pattern":[{"LOWER": "file"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|finance","pattern":[{"LOWER": "finance"}]}
+{"label":"SKILL|finance-analyst","pattern":[{"LOWER": "finance"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|finance-manager","pattern":[{"LOWER": "finance"}, {"LOWER": "manager"}]}
+{"label":"SKILL|financial-advisor","pattern":[{"LOWER": "financial"}, {"LOWER": "advisor"}]}
+{"label":"SKILL|financial-analyst","pattern":[{"LOWER": "financial"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|financial-counselor","pattern":[{"LOWER": "financial"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|financial-manager","pattern":[{"LOWER": "financial"}, {"LOWER": "manager"}]}
+{"label":"SKILL|financial-planner","pattern":[{"LOWER": "financial"}, {"LOWER": "planner"}]}
+{"label":"SKILL|fire-chief","pattern":[{"LOWER": "fire"}, {"LOWER": "chief"}]}
+{"label":"SKILL|fire-fighter","pattern":[{"LOWER": "fire"}, {"LOWER": "fighter"}]}
+{"label":"SKILL|fire-inspector","pattern":[{"LOWER": "fire"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|fire-investigator","pattern":[{"LOWER": "fire"}, {"LOWER": "investigator"}]}
+{"label":"SKILL|fire-marshal","pattern":[{"LOWER": "fire"}, {"LOWER": "marshal"}]}
+{"label":"SKILL|fitness","pattern":[{"LOWER": "fitness"}]}
+{"label":"SKILL|fitness-instructor","pattern":[{"LOWER": "fitness"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|fitness-specialist","pattern":[{"LOWER": "fitness"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|fitness-trainer","pattern":[{"LOWER": "fitness"}, {"LOWER": "trainer"}]}
+{"label":"SKILL|fleet-manager","pattern":[{"LOWER": "fleet"}, {"LOWER": "manager"}]}
+{"label":"SKILL|flight-attendant","pattern":[{"LOWER": "flight"}, {"LOWER": "attendant"}]}
+{"label":"SKILL|florist","pattern":[{"LOWER": "florist"}]}
+{"label":"SKILL|food-inspector","pattern":[{"LOWER": "food"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|food-runner","pattern":[{"LOWER": "food"}, {"LOWER": "runner"}]}
+{"label":"SKILL|food-scientist","pattern":[{"LOWER": "food"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|food-service","pattern":[{"LOWER": "food"}, {"LOWER": "service"}]}
+{"label":"SKILL|food-service-director","pattern":[{"LOWER": "food"}, {"LOWER": "service"}, {"LOWER": "director"}]}
+{"label":"SKILL|food-service-manager","pattern":[{"LOWER": "food"}, {"LOWER": "service"}, {"LOWER": "manager"}]}
+{"label":"SKILL|food-technologist","pattern":[{"LOWER": "food"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|forensic-scientist","pattern":[{"LOWER": "forensic"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|forestry-technician","pattern":[{"LOWER": "forestry"}, {"LOWER": "technician"}]}
+{"label":"SKILL|forklift-driver","pattern":[{"LOWER": "forklift"}, {"LOWER": "driver"}]}
+{"label":"SKILL|forklift-operator","pattern":[{"LOWER": "forklift"}, {"LOWER": "operator"}]}
+{"label":"SKILL|fraud-analyst","pattern":[{"LOWER": "fraud"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|fraud-investigator","pattern":[{"LOWER": "fraud"}, {"LOWER": "investigator"}]}
+{"label":"SKILL|freelance-writer","pattern":[{"LOWER": "freelance"}, {"LOWER": "writer"}]}
+{"label":"SKILL|french-teacher","pattern":[{"LOWER": "french"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|french-tutor","pattern":[{"LOWER": "french"}, {"LOWER": "tutor"}]}
+{"label":"SKILL|front-desk-clerk","pattern":[{"LOWER": "front"}, {"LOWER": "desk"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|front-end-developer","pattern":[{"LOWER": "front"}, {"LOWER": "end"}, {"LOWER": "developer"}]}
+{"label":"SKILL|full-stack-developer","pattern":[{"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label":"SKILL|game-designer","pattern":[{"LOWER": "game"}, {"LOWER": "designer"}]}
+{"label":"SKILL|game-developer","pattern":[{"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label":"SKILL|gardener","pattern":[{"LOWER": "gardener"}]}
+{"label":"SKILL|general-counsel","pattern":[{"LOWER": "general"}, {"LOWER": "counsel"}]}
+{"label":"SKILL|general-laborer","pattern":[{"LOWER": "general"}, {"LOWER": "laborer"}]}
+{"label":"SKILL|general-manager","pattern":[{"LOWER": "general"}, {"LOWER": "manager"}]}
+{"label":"SKILL|geologist","pattern":[{"LOWER": "geologist"}]}
+{"label":"SKILL|gis-analyst","pattern":[{"LOWER": "gis"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|glazier","pattern":[{"LOWER": "glazier"}]}
+{"label":"SKILL|government","pattern":[{"LOWER": "government"}]}
+{"label":"SKILL|graduate","pattern":[{"LOWER": "graduate"}]}
+{"label":"SKILL|graduate-assistant","pattern":[{"LOWER": "graduate"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|graduate-nurse","pattern":[{"LOWER": "graduate"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|graphic-artist","pattern":[{"LOWER": "graphic"}, {"LOWER": "artist"}]}
+{"label":"SKILL|graphic-designer","pattern":[{"LOWER": "graphic"}, {"LOWER": "designer"}]}
+{"label":"SKILL|greeter","pattern":[{"LOWER": "greeter"}]}
+{"label":"SKILL|groundskeeper","pattern":[{"LOWER": "groundskeeper"}]}
+{"label":"SKILL|group-fitness-instructor","pattern":[{"LOWER": "group"}, {"LOWER": "fitness"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|guidance-counselor","pattern":[{"LOWER": "guidance"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|handyman","pattern":[{"LOWER": "handyman"}]}
+{"label":"SKILL|hardware-engineer","pattern":[{"LOWER": "hardware"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|headhunter","pattern":[{"LOWER": "headhunter"}]}
+{"label":"SKILL|health-coach","pattern":[{"LOWER": "health"}, {"LOWER": "coach"}]}
+{"label":"SKILL|health-educator","pattern":[{"LOWER": "health"}, {"LOWER": "educator"}]}
+{"label":"SKILL|health-information-technician","pattern":[{"LOWER": "health"}, {"LOWER": "information"}, {"LOWER": "technician"}]}
+{"label":"SKILL|health-unit-coordinator","pattern":[{"LOWER": "health"}, {"LOWER": "unit"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|healthcare-analyst","pattern":[{"LOWER": "healthcare"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|healthcare-consultant","pattern":[{"LOWER": "healthcare"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|helicopter-mechanic","pattern":[{"LOWER": "helicopter"}, {"LOWER": "mechanic"}]}
+{"label":"SKILL|help-desk-technician","pattern":[{"LOWER": "help"}, {"LOWER": "desk"}, {"LOWER": "technician"}]}
+{"label":"SKILL|high-school-teacher","pattern":[{"LOWER": "high"}, {"LOWER": "school"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|histology-technician","pattern":[{"LOWER": "histology"}, {"LOWER": "technician"}]}
+{"label":"SKILL|home-health-aide","pattern":[{"LOWER": "home"}, {"LOWER": "health"}, {"LOWER": "aide"}]}
+{"label":"SKILL|home-health-nurse","pattern":[{"LOWER": "home"}, {"LOWER": "health"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|home-inspector","pattern":[{"LOWER": "home"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|homemaker","pattern":[{"LOWER": "homemaker"}]}
+{"label":"SKILL|hospice","pattern":[{"LOWER": "hospice"}]}
+{"label":"SKILL|hospice-nurse","pattern":[{"LOWER": "hospice"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|hospice-social-worker","pattern":[{"LOWER": "hospice"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label":"SKILL|hospitalist","pattern":[{"LOWER": "hospitalist"}]}
+{"label":"SKILL|hospitality","pattern":[{"LOWER": "hospitality"}]}
+{"label":"SKILL|hostess","pattern":[{"LOWER": "hostess"}]}
+{"label":"SKILL|house-manager","pattern":[{"LOWER": "house"}, {"LOWER": "manager"}]}
+{"label":"SKILL|housekeeper","pattern":[{"LOWER": "housekeeper"}]}
+{"label":"SKILL|housekeeping-supervisor","pattern":[{"LOWER": "housekeeping"}, {"LOWER": "supervisor"}]}
+{"label":"SKILL|hr-analyst","pattern":[{"LOWER": "hr"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|hr-assistant","pattern":[{"LOWER": "hr"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|hr-coordinator","pattern":[{"LOWER": "hr"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|hr-director","pattern":[{"LOWER": "hr"}, {"LOWER": "director"}]}
+{"label":"SKILL|hr-generalist","pattern":[{"LOWER": "hr"}, {"LOWER": "generalist"}]}
+{"label":"SKILL|hr-manager","pattern":[{"LOWER": "hr"}, {"LOWER": "manager"}]}
+{"label":"SKILL|hr-specialist","pattern":[{"LOWER": "hr"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|html-developer","pattern":[{"LOWER": "html"}, {"LOWER": "developer"}]}
+{"label":"SKILL|human-resources","pattern":[{"LOWER": "human"}, {"LOWER": "resources"}]}
+{"label":"SKILL|immigration-attorney","pattern":[{"LOWER": "immigration"}, {"LOWER": "attorney"}]}
+{"label":"SKILL|independent-contractor","pattern":[{"LOWER": "independent"}, {"LOWER": "contractor"}]}
+{"label":"SKILL|industrial-designer","pattern":[{"LOWER": "industrial"}, {"LOWER": "designer"}]}
+{"label":"SKILL|industrial-electrician","pattern":[{"LOWER": "industrial"}, {"LOWER": "electrician"}]}
+{"label":"SKILL|industrial-engineer","pattern":[{"LOWER": "industrial"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|informatica-developer","pattern":[{"LOWER": "informatica"}, {"LOWER": "developer"}]}
+{"label":"SKILL|information-security-analyst","pattern":[{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|infusion-nurse","pattern":[{"LOWER": "infusion"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|inspector","pattern":[{"LOWER": "inspector"}]}
+{"label":"SKILL|instructional-aide","pattern":[{"LOWER": "instructional"}, {"LOWER": "aide"}]}
+{"label":"SKILL|instructional-assistant","pattern":[{"LOWER": "instructional"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|instructional-designer","pattern":[{"LOWER": "instructional"}, {"LOWER": "designer"}]}
+{"label":"SKILL|instructor","pattern":[{"LOWER": "instructor"}]}
+{"label":"SKILL|instrument-technician","pattern":[{"LOWER": "instrument"}, {"LOWER": "technician"}]}
+{"label":"SKILL|insurance","pattern":[{"LOWER": "insurance"}]}
+{"label":"SKILL|insurance-adjuster","pattern":[{"LOWER": "insurance"}, {"LOWER": "adjuster"}]}
+{"label":"SKILL|insurance-agent","pattern":[{"LOWER": "insurance"}, {"LOWER": "agent"}]}
+{"label":"SKILL|intake-coordinator","pattern":[{"LOWER": "intake"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|intelligence-analyst","pattern":[{"LOWER": "intelligence"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|interior-designer","pattern":[{"LOWER": "interior"}, {"LOWER": "designer"}]}
+{"label":"SKILL|international-business","pattern":[{"LOWER": "international"}, {"LOWER": "business"}]}
+{"label":"SKILL|internet","pattern":[{"LOWER": "internet"}]}
+{"label":"SKILL|interpreter","pattern":[{"LOWER": "interpreter"}]}
+{"label":"SKILL|inventory","pattern":[{"LOWER": "inventory"}]}
+{"label":"SKILL|inventory-specialist","pattern":[{"LOWER": "inventory"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|investment-analyst","pattern":[{"LOWER": "investment"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|ios-developer","pattern":[{"LOWER": "ios"}, {"LOWER": "developer"}]}
+{"label":"SKILL|it-director","pattern":[{"LOWER": "it"}, {"LOWER": "director"}]}
+{"label":"SKILL|it-manager","pattern":[{"LOWER": "it"}, {"LOWER": "manager"}]}
+{"label":"SKILL|it-project-manager","pattern":[{"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label":"SKILL|it-specialist","pattern":[{"LOWER": "it"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|janitor","pattern":[{"LOWER": "janitor"}]}
+{"label":"SKILL|java-developer","pattern":[{"LOWER": "java"}, {"LOWER": "developer"}]}
+{"label":"SKILL|java-programmer","pattern":[{"LOWER": "java"}, {"LOWER": "programmer"}]}
+{"label":"SKILL|javascript-developer","pattern":[{"LOWER": "javascript"}, {"LOWER": "developer"}]}
+{"label":"SKILL|journalist","pattern":[{"LOWER": "journalist"}]}
+{"label":"SKILL|journeyman-electrician","pattern":[{"LOWER": "journeyman"}, {"LOWER": "electrician"}]}
+{"label":"SKILL|journeyman-lineman","pattern":[{"LOWER": "journeyman"}, {"LOWER": "lineman"}]}
+{"label":"SKILL|junior-designer","pattern":[{"LOWER": "junior"}, {"LOWER": "designer"}]}
+{"label":"SKILL|junior-developer","pattern":[{"LOWER": "junior"}, {"LOWER": "developer"}]}
+{"label":"SKILL|junior-engineer","pattern":[{"LOWER": "junior"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|junior-software-engineer","pattern":[{"LOWER": "junior"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|kindergarten-teacher","pattern":[{"LOWER": "kindergarten"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|kitchen-designer","pattern":[{"LOWER": "kitchen"}, {"LOWER": "designer"}]}
+{"label":"SKILL|kitchen-manager","pattern":[{"LOWER": "kitchen"}, {"LOWER": "manager"}]}
+{"label":"SKILL|lab-assistant","pattern":[{"LOWER": "lab"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|lab-technician","pattern":[{"LOWER": "lab"}, {"LOWER": "technician"}]}
+{"label":"SKILL|labor-and-delivery-nurse","pattern":[{"LOWER": "labor"}, {"LOWER": "and"}, {"LOWER": "delivery"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|laboratory-assistant","pattern":[{"LOWER": "laboratory"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|laboratory-technician","pattern":[{"LOWER": "laboratory"}, {"LOWER": "technician"}]}
+{"label":"SKILL|laborer","pattern":[{"LOWER": "laborer"}]}
+{"label":"SKILL|land-surveyor","pattern":[{"LOWER": "land"}, {"LOWER": "surveyor"}]}
+{"label":"SKILL|laundry-attendant","pattern":[{"LOWER": "laundry"}, {"LOWER": "attendant"}]}
+{"label":"SKILL|law-clerk","pattern":[{"LOWER": "law"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|lawyer","pattern":[{"LOWER": "lawyer"}]}
+{"label":"SKILL|leasing-agent","pattern":[{"LOWER": "leasing"}, {"LOWER": "agent"}]}
+{"label":"SKILL|leasing-consultant","pattern":[{"LOWER": "leasing"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|legal-assistant","pattern":[{"LOWER": "legal"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|legal-clerk","pattern":[{"LOWER": "legal"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|legal-secretary","pattern":[{"LOWER": "legal"}, {"LOWER": "secretary"}]}
+{"label":"SKILL|legislative-assistant","pattern":[{"LOWER": "legislative"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|librarian","pattern":[{"LOWER": "librarian"}]}
+{"label":"SKILL|licensed-professional-counselor","pattern":[{"LOWER": "licensed"}, {"LOWER": "professional"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|life-coach","pattern":[{"LOWER": "life"}, {"LOWER": "coach"}]}
+{"label":"SKILL|line-cook","pattern":[{"LOWER": "line"}, {"LOWER": "cook"}]}
+{"label":"SKILL|lineman","pattern":[{"LOWER": "lineman"}]}
+{"label":"SKILL|linguist","pattern":[{"LOWER": "linguist"}]}
+{"label":"SKILL|linux-administrator","pattern":[{"LOWER": "linux"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|loan-officer","pattern":[{"LOWER": "loan"}, {"LOWER": "officer"}]}
+{"label":"SKILL|loan-originator","pattern":[{"LOWER": "loan"}, {"LOWER": "originator"}]}
+{"label":"SKILL|loan-processor","pattern":[{"LOWER": "loan"}, {"LOWER": "processor"}]}
+{"label":"SKILL|locksmith","pattern":[{"LOWER": "locksmith"}]}
+{"label":"SKILL|logistician","pattern":[{"LOWER": "logistician"}]}
+{"label":"SKILL|logistics","pattern":[{"LOWER": "logistics"}]}
+{"label":"SKILL|logistics-coordinator","pattern":[{"LOWER": "logistics"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|logistics-manager","pattern":[{"LOWER": "logistics"}, {"LOWER": "manager"}]}
+{"label":"SKILL|loss-prevention-manager","pattern":[{"LOWER": "loss"}, {"LOWER": "prevention"}, {"LOWER": "manager"}]}
+{"label":"SKILL|lpn","pattern":[{"LOWER": "lpn"}]}
+{"label":"SKILL|lube-technician","pattern":[{"LOWER": "lube"}, {"LOWER": "technician"}]}
+{"label":"SKILL|lvn","pattern":[{"LOWER": "lvn"}]}
+{"label":"SKILL|machine-operator","pattern":[{"LOWER": "machine"}, {"LOWER": "operator"}]}
+{"label":"SKILL|machinist","pattern":[{"LOWER": "machinist"}]}
+{"label":"SKILL|mail-clerk","pattern":[{"LOWER": "mail"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|maintenance","pattern":[{"LOWER": "maintenance"}]}
+{"label":"SKILL|maintenance-electrician","pattern":[{"LOWER": "maintenance"}, {"LOWER": "electrician"}]}
+{"label":"SKILL|maintenance-manager","pattern":[{"LOWER": "maintenance"}, {"LOWER": "manager"}]}
+{"label":"SKILL|maintenance-mechanic","pattern":[{"LOWER": "maintenance"}, {"LOWER": "mechanic"}]}
+{"label":"SKILL|maintenance-supervisor","pattern":[{"LOWER": "maintenance"}, {"LOWER": "supervisor"}]}
+{"label":"SKILL|maintenance-technician","pattern":[{"LOWER": "maintenance"}, {"LOWER": "technician"}]}
+{"label":"SKILL|manual-machinist","pattern":[{"LOWER": "manual"}, {"LOWER": "machinist"}]}
+{"label":"SKILL|manufacturing-engineer","pattern":[{"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|marine-engineer","pattern":[{"LOWER": "marine"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|market-research-analyst","pattern":[{"LOWER": "market"}, {"LOWER": "research"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|marketing-analyst","pattern":[{"LOWER": "marketing"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|marketing-assistant","pattern":[{"LOWER": "marketing"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|marketing-associate","pattern":[{"LOWER": "marketing"}, {"LOWER": "associate"}]}
+{"label":"SKILL|marketing-consultant","pattern":[{"LOWER": "marketing"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|marketing-coordinator","pattern":[{"LOWER": "marketing"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|marketing-director","pattern":[{"LOWER": "marketing"}, {"LOWER": "director"}]}
+{"label":"SKILL|marketing-manager","pattern":[{"LOWER": "marketing"}, {"LOWER": "manager"}]}
+{"label":"SKILL|marketing-specialist","pattern":[{"LOWER": "marketing"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|marriage-and-family-therapist","pattern":[{"LOWER": "marriage"}, {"LOWER": "and"}, {"LOWER": "family"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|mason","pattern":[{"LOWER": "mason"}]}
+{"label":"SKILL|massage-therapist","pattern":[{"LOWER": "massage"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|material-handler","pattern":[{"LOWER": "material"}, {"LOWER": "handler"}]}
+{"label":"SKILL|materials-engineer","pattern":[{"LOWER": "materials"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|materials-scientist","pattern":[{"LOWER": "materials"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|meat-cutter","pattern":[{"LOWER": "meat"}, {"LOWER": "cutter"}]}
+{"label":"SKILL|mechanic","pattern":[{"LOWER": "mechanic"}]}
+{"label":"SKILL|mechanical-engineer","pattern":[{"LOWER": "mechanical"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|media-planner","pattern":[{"LOWER": "media"}, {"LOWER": "planner"}]}
+{"label":"SKILL|media-production","pattern":[{"LOWER": "media"}, {"LOWER": "production"}]}
+{"label":"SKILL|media-relations","pattern":[{"LOWER": "media"}, {"LOWER": "relations"}]}
+{"label":"SKILL|media-specialist","pattern":[{"LOWER": "media"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|mediator","pattern":[{"LOWER": "mediator"}]}
+{"label":"SKILL|medical-administrative-assistant","pattern":[{"LOWER": "medical"}, {"LOWER": "administrative"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|medical-assistant","pattern":[{"LOWER": "medical"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|medical-biller","pattern":[{"LOWER": "medical"}, {"LOWER": "biller"}]}
+{"label":"SKILL|medical-billing-and-coding","pattern":[{"LOWER": "medical"}, {"LOWER": "billing"}, {"LOWER": "and"}, {"LOWER": "coding"}]}
+{"label":"SKILL|medical-coder","pattern":[{"LOWER": "medical"}, {"LOWER": "coder"}]}
+{"label":"SKILL|medical-director","pattern":[{"LOWER": "medical"}, {"LOWER": "director"}]}
+{"label":"SKILL|medical-laboratory-scientist","pattern":[{"LOWER": "medical"}, {"LOWER": "laboratory"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|medical-liaison","pattern":[{"LOWER": "medical"}, {"LOWER": "liaison"}]}
+{"label":"SKILL|medical-office-assistant","pattern":[{"LOWER": "medical"}, {"LOWER": "office"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|medical-receptionist","pattern":[{"LOWER": "medical"}, {"LOWER": "receptionist"}]}
+{"label":"SKILL|medical-records-clerk","pattern":[{"LOWER": "medical"}, {"LOWER": "records"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|medical-records-technician","pattern":[{"LOWER": "medical"}, {"LOWER": "records"}, {"LOWER": "technician"}]}
+{"label":"SKILL|medical-sales-representative","pattern":[{"LOWER": "medical"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label":"SKILL|medical-science-liaison","pattern":[{"LOWER": "medical"}, {"LOWER": "science"}, {"LOWER": "liaison"}]}
+{"label":"SKILL|medical-scientist","pattern":[{"LOWER": "medical"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|medical-secretary","pattern":[{"LOWER": "medical"}, {"LOWER": "secretary"}]}
+{"label":"SKILL|medical-social-worker","pattern":[{"LOWER": "medical"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label":"SKILL|medical-technician","pattern":[{"LOWER": "medical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|medical-technologist","pattern":[{"LOWER": "medical"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|medical-transcriptionist","pattern":[{"LOWER": "medical"}, {"LOWER": "transcriptionist"}]}
+{"label":"SKILL|medical-writer","pattern":[{"LOWER": "medical"}, {"LOWER": "writer"}]}
+{"label":"SKILL|medicine","pattern":[{"LOWER": "medicine"}]}
+{"label":"SKILL|mental-health-counselor","pattern":[{"LOWER": "mental"}, {"LOWER": "health"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|mental-health-technician","pattern":[{"LOWER": "mental"}, {"LOWER": "health"}, {"LOWER": "technician"}]}
+{"label":"SKILL|mental-health-therapist","pattern":[{"LOWER": "mental"}, {"LOWER": "health"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|mental-health-worker","pattern":[{"LOWER": "mental"}, {"LOWER": "health"}, {"LOWER": "worker"}]}
+{"label":"SKILL|mentor","pattern":[{"LOWER": "mentor"}]}
+{"label":"SKILL|merchandiser","pattern":[{"LOWER": "merchandiser"}]}
+{"label":"SKILL|microbiologist","pattern":[{"LOWER": "microbiologist"}]}
+{"label":"SKILL|military-officer","pattern":[{"LOWER": "military"}, {"LOWER": "officer"}]}
+{"label":"SKILL|miller","pattern":[{"LOWER": "miller"}]}
+{"label":"SKILL|mobile-developer","pattern":[{"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label":"SKILL|model","pattern":[{"LOWER": "model"}]}
+{"label":"SKILL|monitor-technician","pattern":[{"LOWER": "monitor"}, {"LOWER": "technician"}]}
+{"label":"SKILL|mortgage-loan-officer","pattern":[{"LOWER": "mortgage"}, {"LOWER": "loan"}, {"LOWER": "officer"}]}
+{"label":"SKILL|mortgage-loan-originator","pattern":[{"LOWER": "mortgage"}, {"LOWER": "loan"}, {"LOWER": "originator"}]}
+{"label":"SKILL|mortgage-processor","pattern":[{"LOWER": "mortgage"}, {"LOWER": "processor"}]}
+{"label":"SKILL|mortgage-underwriter","pattern":[{"LOWER": "mortgage"}, {"LOWER": "underwriter"}]}
+{"label":"SKILL|mover","pattern":[{"LOWER": "mover"}]}
+{"label":"SKILL|mri-technologist","pattern":[{"LOWER": "mri"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|musician","pattern":[{"LOWER": "musician"}]}
+{"label":"SKILL|.net-developer","pattern":[{"LOWER": ".net"}, {"LOWER": "developer"}]}
+{"label":"SKILL|nanny","pattern":[{"LOWER": "nanny"}]}
+{"label":"SKILL|near-me","pattern":[{"LOWER": "near"}, {"LOWER": "me"}]}
+{"label":"SKILL|negotiator","pattern":[{"LOWER": "negotiator"}]}
+{"label":"SKILL|network-administrator","pattern":[{"LOWER": "network"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|network-analyst","pattern":[{"LOWER": "network"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|network-architect","pattern":[{"LOWER": "network"}, {"LOWER": "architect"}]}
+{"label":"SKILL|network-engineer","pattern":[{"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|network-technician","pattern":[{"LOWER": "network"}, {"LOWER": "technician"}]}
+{"label":"SKILL|news-reporter","pattern":[{"LOWER": "news"}, {"LOWER": "reporter"}]}
+{"label":"SKILL|newspaper","pattern":[{"LOWER": "newspaper"}]}
+{"label":"SKILL|noc-technician","pattern":[{"LOWER": "noc"}, {"LOWER": "technician"}]}
+{"label":"SKILL|non-profit","pattern":[{"LOWER": "non"}, {"LOWER": "profit"}]}
+{"label":"SKILL|notary-public","pattern":[{"LOWER": "notary"}, {"LOWER": "public"}]}
+{"label":"SKILL|nuclear-engineer","pattern":[{"LOWER": "nuclear"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|nuclear-medicine-technologist","pattern":[{"LOWER": "nuclear"}, {"LOWER": "medicine"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|nurse","pattern":[{"LOWER": "nurse"}]}
+{"label":"SKILL|nurse-aide","pattern":[{"LOWER": "nurse"}, {"LOWER": "aide"}]}
+{"label":"SKILL|nurse-anesthetist","pattern":[{"LOWER": "nurse"}, {"LOWER": "anesthetist"}]}
+{"label":"SKILL|nurse-assistant","pattern":[{"LOWER": "nurse"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|nurse-consultant","pattern":[{"LOWER": "nurse"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|nurse-educator","pattern":[{"LOWER": "nurse"}, {"LOWER": "educator"}]}
+{"label":"SKILL|nurse-manager","pattern":[{"LOWER": "nurse"}, {"LOWER": "manager"}]}
+{"label":"SKILL|nurse-practitioner","pattern":[{"LOWER": "nurse"}, {"LOWER": "practitioner"}]}
+{"label":"SKILL|nursing-assistant","pattern":[{"LOWER": "nursing"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|nursing-faculty","pattern":[{"LOWER": "nursing"}, {"LOWER": "faculty"}]}
+{"label":"SKILL|nursing-home-administrator","pattern":[{"LOWER": "nursing"}, {"LOWER": "home"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|nursing-instructor","pattern":[{"LOWER": "nursing"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|nutrition-assistant","pattern":[{"LOWER": "nutrition"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|nutrition-consultant","pattern":[{"LOWER": "nutrition"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|nutritionist","pattern":[{"LOWER": "nutritionist"}]}
+{"label":"SKILL|obgyn","pattern":[{"LOWER": "obgyn"}]}
+{"label":"SKILL|occupational-health-nurse","pattern":[{"LOWER": "occupational"}, {"LOWER": "health"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|occupational-therapist","pattern":[{"LOWER": "occupational"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|occupational-therapy-assistant","pattern":[{"LOWER": "occupational"}, {"LOWER": "therapy"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|office-administrator","pattern":[{"LOWER": "office"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|office-assistant","pattern":[{"LOWER": "office"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|office-clerk","pattern":[{"LOWER": "office"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|office-coordinator","pattern":[{"LOWER": "office"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|office-manager","pattern":[{"LOWER": "office"}, {"LOWER": "manager"}]}
+{"label":"SKILL|office-nurse","pattern":[{"LOWER": "office"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|online-marketing","pattern":[{"LOWER": "online"}, {"LOWER": "marketing"}]}
+{"label":"SKILL|operations-analyst","pattern":[{"LOWER": "operations"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|operations-manager","pattern":[{"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label":"SKILL|operator","pattern":[{"LOWER": "operator"}]}
+{"label":"SKILL|order-picker","pattern":[{"LOWER": "order"}, {"LOWER": "picker"}]}
+{"label":"SKILL|order-selector","pattern":[{"LOWER": "order"}, {"LOWER": "selector"}]}
+{"label":"SKILL|organizer","pattern":[{"LOWER": "organizer"}]}
+{"label":"SKILL|orthodontic-assistant","pattern":[{"LOWER": "orthodontic"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|owner-operator","pattern":[{"LOWER": "owner"}, {"LOWER": "operator"}]}
+{"label":"SKILL|package-handler","pattern":[{"LOWER": "package"}, {"LOWER": "handler"}]}
+{"label":"SKILL|packaging-engineer","pattern":[{"LOWER": "packaging"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|painter","pattern":[{"LOWER": "painter"}]}
+{"label":"SKILL|paramedic","pattern":[{"LOWER": "paramedic"}]}
+{"label":"SKILL|parts-manager","pattern":[{"LOWER": "parts"}, {"LOWER": "manager"}]}
+{"label":"SKILL|pastry-chef","pattern":[{"LOWER": "pastry"}, {"LOWER": "chef"}]}
+{"label":"SKILL|patent-attorney","pattern":[{"LOWER": "patent"}, {"LOWER": "attorney"}]}
+{"label":"SKILL|pathology-assistant","pattern":[{"LOWER": "pathology"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|patient-access-representative","pattern":[{"LOWER": "patient"}, {"LOWER": "access"}, {"LOWER": "representative"}]}
+{"label":"SKILL|patient-care-assistant","pattern":[{"LOWER": "patient"}, {"LOWER": "care"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|patient-care-coordinator","pattern":[{"LOWER": "patient"}, {"LOWER": "care"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|patient-care-technician","pattern":[{"LOWER": "patient"}, {"LOWER": "care"}, {"LOWER": "technician"}]}
+{"label":"SKILL|patient-navigator","pattern":[{"LOWER": "patient"}, {"LOWER": "navigator"}]}
+{"label":"SKILL|patient-service-representative","pattern":[{"LOWER": "patient"}, {"LOWER": "service"}, {"LOWER": "representative"}]}
+{"label":"SKILL|patient-sitter","pattern":[{"LOWER": "patient"}, {"LOWER": "sitter"}]}
+{"label":"SKILL|patient-transporter","pattern":[{"LOWER": "patient"}, {"LOWER": "transporter"}]}
+{"label":"SKILL|payroll-clerk","pattern":[{"LOWER": "payroll"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|payroll-specialist","pattern":[{"LOWER": "payroll"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|pc-technician","pattern":[{"LOWER": "pc"}, {"LOWER": "technician"}]}
+{"label":"SKILL|pediatrician","pattern":[{"LOWER": "pediatrician"}]}
+{"label":"SKILL|peer-support-specialist","pattern":[{"LOWER": "peer"}, {"LOWER": "support"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|personal-assistant","pattern":[{"LOWER": "personal"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|personal-banker","pattern":[{"LOWER": "personal"}, {"LOWER": "banker"}]}
+{"label":"SKILL|personal-care-aide","pattern":[{"LOWER": "personal"}, {"LOWER": "care"}, {"LOWER": "aide"}]}
+{"label":"SKILL|personal-care-assistant","pattern":[{"LOWER": "personal"}, {"LOWER": "care"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|personal-trainer","pattern":[{"LOWER": "personal"}, {"LOWER": "trainer"}]}
+{"label":"SKILL|petroleum-engineer","pattern":[{"LOWER": "petroleum"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|pharmaceutical-sales-representative","pattern":[{"LOWER": "pharmaceutical"}, {"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label":"SKILL|pharmacist","pattern":[{"LOWER": "pharmacist"}]}
+{"label":"SKILL|pharmacy-clerk","pattern":[{"LOWER": "pharmacy"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|pharmacy-technician","pattern":[{"LOWER": "pharmacy"}, {"LOWER": "technician"}]}
+{"label":"SKILL|phlebotomist","pattern":[{"LOWER": "phlebotomist"}]}
+{"label":"SKILL|phlebotomy-technician","pattern":[{"LOWER": "phlebotomy"}, {"LOWER": "technician"}]}
+{"label":"SKILL|photographer","pattern":[{"LOWER": "photographer"}]}
+{"label":"SKILL|php-developer","pattern":[{"LOWER": "php"}, {"LOWER": "developer"}]}
+{"label":"SKILL|physical-education-teacher","pattern":[{"LOWER": "physical"}, {"LOWER": "education"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|physical-therapist","pattern":[{"LOWER": "physical"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|physical-therapist-assistant","pattern":[{"LOWER": "physical"}, {"LOWER": "therapist"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|physical-therapy-aide","pattern":[{"LOWER": "physical"}, {"LOWER": "therapy"}, {"LOWER": "aide"}]}
+{"label":"SKILL|physical-therapy-technician","pattern":[{"LOWER": "physical"}, {"LOWER": "therapy"}, {"LOWER": "technician"}]}
+{"label":"SKILL|physician-assistant","pattern":[{"LOWER": "physician"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|physicist","pattern":[{"LOWER": "physicist"}]}
+{"label":"SKILL|pilot","pattern":[{"LOWER": "pilot"}]}
+{"label":"SKILL|pipe-fitter","pattern":[{"LOWER": "pipe"}, {"LOWER": "fitter"}]}
+{"label":"SKILL|piping-designer","pattern":[{"LOWER": "piping"}, {"LOWER": "designer"}]}
+{"label":"SKILL|planner","pattern":[{"LOWER": "planner"}]}
+{"label":"SKILL|plant-manager","pattern":[{"LOWER": "plant"}, {"LOWER": "manager"}]}
+{"label":"SKILL|plant-operator","pattern":[{"LOWER": "plant"}, {"LOWER": "operator"}]}
+{"label":"SKILL|plc-technician","pattern":[{"LOWER": "plc"}, {"LOWER": "technician"}]}
+{"label":"SKILL|plumber","pattern":[{"LOWER": "plumber"}]}
+{"label":"SKILL|poet","pattern":[{"LOWER": "poet"}]}
+{"label":"SKILL|police-chief","pattern":[{"LOWER": "police"}, {"LOWER": "chief"}]}
+{"label":"SKILL|police-officer","pattern":[{"LOWER": "police"}, {"LOWER": "officer"}]}
+{"label":"SKILL|policy-analyst","pattern":[{"LOWER": "policy"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|porter","pattern":[{"LOWER": "porter"}]}
+{"label":"SKILL|portfolio-manager","pattern":[{"LOWER": "portfolio"}, {"LOWER": "manager"}]}
+{"label":"SKILL|pr","pattern":[{"LOWER": "pr"}]}
+{"label":"SKILL|practice-manager","pattern":[{"LOWER": "practice"}, {"LOWER": "manager"}]}
+{"label":"SKILL|prep-cook","pattern":[{"LOWER": "prep"}, {"LOWER": "cook"}]}
+{"label":"SKILL|preschool-teacher","pattern":[{"LOWER": "preschool"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|pricing-analyst","pattern":[{"LOWER": "pricing"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|private-investigator","pattern":[{"LOWER": "private"}, {"LOWER": "investigator"}]}
+{"label":"SKILL|probation-officer","pattern":[{"LOWER": "probation"}, {"LOWER": "officer"}]}
+{"label":"SKILL|process-engineer","pattern":[{"LOWER": "process"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|process-operator","pattern":[{"LOWER": "process"}, {"LOWER": "operator"}]}
+{"label":"SKILL|process-technician","pattern":[{"LOWER": "process"}, {"LOWER": "technician"}]}
+{"label":"SKILL|procurement","pattern":[{"LOWER": "procurement"}]}
+{"label":"SKILL|producer","pattern":[{"LOWER": "producer"}]}
+{"label":"SKILL|product-analyst","pattern":[{"LOWER": "product"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|product-engineer","pattern":[{"LOWER": "product"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|product-management","pattern":[{"LOWER": "product"}, {"LOWER": "management"}]}
+{"label":"SKILL|product-manager","pattern":[{"LOWER": "product"}, {"LOWER": "manager"}]}
+{"label":"SKILL|product-owner","pattern":[{"LOWER": "product"}, {"LOWER": "owner"}]}
+{"label":"SKILL|production-artist","pattern":[{"LOWER": "production"}, {"LOWER": "artist"}]}
+{"label":"SKILL|production-assistant","pattern":[{"LOWER": "production"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|production-coordinator","pattern":[{"LOWER": "production"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|production-manager","pattern":[{"LOWER": "production"}, {"LOWER": "manager"}]}
+{"label":"SKILL|production-operator","pattern":[{"LOWER": "production"}, {"LOWER": "operator"}]}
+{"label":"SKILL|production-supervisor","pattern":[{"LOWER": "production"}, {"LOWER": "supervisor"}]}
+{"label":"SKILL|professor","pattern":[{"LOWER": "professor"}]}
+{"label":"SKILL|program-assistant","pattern":[{"LOWER": "program"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|program-coordinator","pattern":[{"LOWER": "program"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|program-director","pattern":[{"LOWER": "program"}, {"LOWER": "director"}]}
+{"label":"SKILL|program-manager","pattern":[{"LOWER": "program"}, {"LOWER": "manager"}]}
+{"label":"SKILL|programmer","pattern":[{"LOWER": "programmer"}]}
+{"label":"SKILL|programmer-analyst","pattern":[{"LOWER": "programmer"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|project-analyst","pattern":[{"LOWER": "project"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|project-assistant","pattern":[{"LOWER": "project"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|project-coordinator","pattern":[{"LOWER": "project"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|project-engineer","pattern":[{"LOWER": "project"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|project-manager","pattern":[{"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label":"SKILL|promoter","pattern":[{"LOWER": "promoter"}]}
+{"label":"SKILL|proofreader","pattern":[{"LOWER": "proofreader"}]}
+{"label":"SKILL|property-manager","pattern":[{"LOWER": "property"}, {"LOWER": "manager"}]}
+{"label":"SKILL|proposal-writer","pattern":[{"LOWER": "proposal"}, {"LOWER": "writer"}]}
+{"label":"SKILL|psychiatric-aide","pattern":[{"LOWER": "psychiatric"}, {"LOWER": "aide"}]}
+{"label":"SKILL|psychiatric-technician","pattern":[{"LOWER": "psychiatric"}, {"LOWER": "technician"}]}
+{"label":"SKILL|psychiatrist","pattern":[{"LOWER": "psychiatrist"}]}
+{"label":"SKILL|psychologist","pattern":[{"LOWER": "psychologist"}]}
+{"label":"SKILL|public-safety-officer","pattern":[{"LOWER": "public"}, {"LOWER": "safety"}, {"LOWER": "officer"}]}
+{"label":"SKILL|publisher","pattern":[{"LOWER": "publisher"}]}
+{"label":"SKILL|purchasing-agent","pattern":[{"LOWER": "purchasing"}, {"LOWER": "agent"}]}
+{"label":"SKILL|purchasing-assistant","pattern":[{"LOWER": "purchasing"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|purchasing-manager","pattern":[{"LOWER": "purchasing"}, {"LOWER": "manager"}]}
+{"label":"SKILL|python-developer","pattern":[{"LOWER": "python"}, {"LOWER": "developer"}]}
+{"label":"SKILL|python-programmer","pattern":[{"LOWER": "python"}, {"LOWER": "programmer"}]}
+{"label":"SKILL|qa-analyst","pattern":[{"LOWER": "qa"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|qa-engineer","pattern":[{"LOWER": "qa"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|qa-tester","pattern":[{"LOWER": "qa"}, {"LOWER": "tester"}]}
+{"label":"SKILL|quality-analyst","pattern":[{"LOWER": "quality"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|quality-assurance","pattern":[{"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label":"SKILL|quality-control","pattern":[{"LOWER": "quality"}, {"LOWER": "control"}]}
+{"label":"SKILL|quality-engineer","pattern":[{"LOWER": "quality"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|quality-inspector","pattern":[{"LOWER": "quality"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|quality-manager","pattern":[{"LOWER": "quality"}, {"LOWER": "manager"}]}
+{"label":"SKILL|quality-technician","pattern":[{"LOWER": "quality"}, {"LOWER": "technician"}]}
+{"label":"SKILL|quantitative-analyst","pattern":[{"LOWER": "quantitative"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|radio-host","pattern":[{"LOWER": "radio"}, {"LOWER": "host"}]}
+{"label":"SKILL|radiographer","pattern":[{"LOWER": "radiographer"}]}
+{"label":"SKILL|radiologist","pattern":[{"LOWER": "radiologist"}]}
+{"label":"SKILL|radiology-assistant","pattern":[{"LOWER": "radiology"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|radiology-technician","pattern":[{"LOWER": "radiology"}, {"LOWER": "technician"}]}
+{"label":"SKILL|ramp-agent","pattern":[{"LOWER": "ramp"}, {"LOWER": "agent"}]}
+{"label":"SKILL|reader","pattern":[{"LOWER": "reader"}]}
+{"label":"SKILL|reading-teacher","pattern":[{"LOWER": "reading"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|real-estate","pattern":[{"LOWER": "real"}, {"LOWER": "estate"}]}
+{"label":"SKILL|real-estate-agent","pattern":[{"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "agent"}]}
+{"label":"SKILL|real-estate-analyst","pattern":[{"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|real-estate-appraiser","pattern":[{"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "appraiser"}]}
+{"label":"SKILL|real-estate-assistant","pattern":[{"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|realtor","pattern":[{"LOWER": "realtor"}]}
+{"label":"SKILL|receptionist","pattern":[{"LOWER": "receptionist"}]}
+{"label":"SKILL|records-clerk","pattern":[{"LOWER": "records"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|recreational-therapist","pattern":[{"LOWER": "recreational"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|recruiter","pattern":[{"LOWER": "recruiter"}]}
+{"label":"SKILL|recruiting-coordinator","pattern":[{"LOWER": "recruiting"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|regional-manager","pattern":[{"LOWER": "regional"}, {"LOWER": "manager"}]}
+{"label":"SKILL|registrar","pattern":[{"LOWER": "registrar"}]}
+{"label":"SKILL|rehabilitation-technician","pattern":[{"LOWER": "rehabilitation"}, {"LOWER": "technician"}]}
+{"label":"SKILL|relationship-manager","pattern":[{"LOWER": "relationship"}, {"LOWER": "manager"}]}
+{"label":"SKILL|remote-developer","pattern":[{"LOWER": "remote"}, {"LOWER": "developer"}]}
+{"label":"SKILL|remote-medical-coder","pattern":[{"LOWER": "remote"}, {"LOWER": "medical"}, {"LOWER": "coder"}]}
+{"label":"SKILL|repair","pattern":[{"LOWER": "repair"}]}
+{"label":"SKILL|reporter","pattern":[{"LOWER": "reporter"}]}
+{"label":"SKILL|research-analyst","pattern":[{"LOWER": "research"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|research-assistant","pattern":[{"LOWER": "research"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|research-associate","pattern":[{"LOWER": "research"}, {"LOWER": "associate"}]}
+{"label":"SKILL|research-coordinator","pattern":[{"LOWER": "research"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|research-nurse","pattern":[{"LOWER": "research"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|research-scientist","pattern":[{"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|research-technician","pattern":[{"LOWER": "research"}, {"LOWER": "technician"}]}
+{"label":"SKILL|resident-advisor","pattern":[{"LOWER": "resident"}, {"LOWER": "advisor"}]}
+{"label":"SKILL|resident-assistant","pattern":[{"LOWER": "resident"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|resident-manager","pattern":[{"LOWER": "resident"}, {"LOWER": "manager"}]}
+{"label":"SKILL|residential-counselor","pattern":[{"LOWER": "residential"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|respiratory-therapist","pattern":[{"LOWER": "respiratory"}, {"LOWER": "therapist"}]}
+{"label":"SKILL|restaurant","pattern":[{"LOWER": "restaurant"}]}
+{"label":"SKILL|restaurant-manager","pattern":[{"LOWER": "restaurant"}, {"LOWER": "manager"}]}
+{"label":"SKILL|retail-manager","pattern":[{"LOWER": "retail"}, {"LOWER": "manager"}]}
+{"label":"SKILL|retail-merchandiser","pattern":[{"LOWER": "retail"}, {"LOWER": "merchandiser"}]}
+{"label":"SKILL|retail-sales","pattern":[{"LOWER": "retail"}, {"LOWER": "sales"}]}
+{"label":"SKILL|retail-sales-associate","pattern":[{"LOWER": "retail"}, {"LOWER": "sales"}, {"LOWER": "associate"}]}
+{"label":"SKILL|reviewer","pattern":[{"LOWER": "reviewer"}]}
+{"label":"SKILL|rigger","pattern":[{"LOWER": "rigger"}]}
+{"label":"SKILL|risk-analyst","pattern":[{"LOWER": "risk"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|rn","pattern":[{"LOWER": "rn"}]}
+{"label":"SKILL|robotics-engineer","pattern":[{"LOWER": "robotics"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|safety-coordinator","pattern":[{"LOWER": "safety"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|safety-director","pattern":[{"LOWER": "safety"}, {"LOWER": "director"}]}
+{"label":"SKILL|safety-inspector","pattern":[{"LOWER": "safety"}, {"LOWER": "inspector"}]}
+{"label":"SKILL|safety-manager","pattern":[{"LOWER": "safety"}, {"LOWER": "manager"}]}
+{"label":"SKILL|safety-officer","pattern":[{"LOWER": "safety"}, {"LOWER": "officer"}]}
+{"label":"SKILL|sales-associate","pattern":[{"LOWER": "sales"}, {"LOWER": "associate"}]}
+{"label":"SKILL|sales-consultant","pattern":[{"LOWER": "sales"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|sales-engineer","pattern":[{"LOWER": "sales"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|sales-executive","pattern":[{"LOWER": "sales"}, {"LOWER": "executive"}]}
+{"label":"SKILL|sales-manager","pattern":[{"LOWER": "sales"}, {"LOWER": "manager"}]}
+{"label":"SKILL|sales-representative","pattern":[{"LOWER": "sales"}, {"LOWER": "representative"}]}
+{"label":"SKILL|salesforce-developer","pattern":[{"LOWER": "salesforce"}, {"LOWER": "developer"}]}
+{"label":"SKILL|salesman","pattern":[{"LOWER": "salesman"}]}
+{"label":"SKILL|sas-programmer","pattern":[{"LOWER": "sas"}, {"LOWER": "programmer"}]}
+{"label":"SKILL|scheduler","pattern":[{"LOWER": "scheduler"}]}
+{"label":"SKILL|school-aide","pattern":[{"LOWER": "school"}, {"LOWER": "aide"}]}
+{"label":"SKILL|school-counselor","pattern":[{"LOWER": "school"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|school-nurse","pattern":[{"LOWER": "school"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|school-principal","pattern":[{"LOWER": "school"}, {"LOWER": "principal"}]}
+{"label":"SKILL|school-secretary","pattern":[{"LOWER": "school"}, {"LOWER": "secretary"}]}
+{"label":"SKILL|school-social-worker","pattern":[{"LOWER": "school"}, {"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label":"SKILL|science-teacher","pattern":[{"LOWER": "science"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|scientist","pattern":[{"LOWER": "scientist"}]}
+{"label":"SKILL|script-writer","pattern":[{"LOWER": "script"}, {"LOWER": "writer"}]}
+{"label":"SKILL|scrum-master","pattern":[{"LOWER": "scrum"}, {"LOWER": "master"}]}
+{"label":"SKILL|secretary","pattern":[{"LOWER": "secretary"}]}
+{"label":"SKILL|security","pattern":[{"LOWER": "security"}]}
+{"label":"SKILL|security-administrator","pattern":[{"LOWER": "security"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|security-analyst","pattern":[{"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|security-architect","pattern":[{"LOWER": "security"}, {"LOWER": "architect"}]}
+{"label":"SKILL|security-consultant","pattern":[{"LOWER": "security"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|security-director","pattern":[{"LOWER": "security"}, {"LOWER": "director"}]}
+{"label":"SKILL|security-engineer","pattern":[{"LOWER": "security"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|security-guard","pattern":[{"LOWER": "security"}, {"LOWER": "guard"}]}
+{"label":"SKILL|security-manager","pattern":[{"LOWER": "security"}, {"LOWER": "manager"}]}
+{"label":"SKILL|security-officer","pattern":[{"LOWER": "security"}, {"LOWER": "officer"}]}
+{"label":"SKILL|security-specialist","pattern":[{"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|security-supervisor","pattern":[{"LOWER": "security"}, {"LOWER": "supervisor"}]}
+{"label":"SKILL|senior-designer","pattern":[{"LOWER": "senior"}, {"LOWER": "designer"}]}
+{"label":"SKILL|senior-developer","pattern":[{"LOWER": "senior"}, {"LOWER": "developer"}]}
+{"label":"SKILL|senior-engineer","pattern":[{"LOWER": "senior"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|senior-software-engineer","pattern":[{"LOWER": "senior"}, {"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|service-advisor","pattern":[{"LOWER": "service"}, {"LOWER": "advisor"}]}
+{"label":"SKILL|service-manager","pattern":[{"LOWER": "service"}, {"LOWER": "manager"}]}
+{"label":"SKILL|service-technician","pattern":[{"LOWER": "service"}, {"LOWER": "technician"}]}
+{"label":"SKILL|sharepoint","pattern":[{"LOWER": "sharepoint"}]}
+{"label":"SKILL|sheriff","pattern":[{"LOWER": "sheriff"}]}
+{"label":"SKILL|shipping-clerk","pattern":[{"LOWER": "shipping"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|shuttle-driver","pattern":[{"LOWER": "shuttle"}, {"LOWER": "driver"}]}
+{"label":"SKILL|signing-agent","pattern":[{"LOWER": "signing"}, {"LOWER": "agent"}]}
+{"label":"SKILL|skilled-trades","pattern":[{"LOWER": "skilled"}, {"LOWER": "trades"}]}
+{"label":"SKILL|social-media-coordinator","pattern":[{"LOWER": "social"}, {"LOWER": "media"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|social-media-manager","pattern":[{"LOWER": "social"}, {"LOWER": "media"}, {"LOWER": "manager"}]}
+{"label":"SKILL|social-media-specialist","pattern":[{"LOWER": "social"}, {"LOWER": "media"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|social-scientist","pattern":[{"LOWER": "social"}, {"LOWER": "scientist"}]}
+{"label":"SKILL|social-services","pattern":[{"LOWER": "social"}, {"LOWER": "services"}]}
+{"label":"SKILL|social-services-assistant","pattern":[{"LOWER": "social"}, {"LOWER": "services"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|social-studies-teacher","pattern":[{"LOWER": "social"}, {"LOWER": "studies"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|social-worker","pattern":[{"LOWER": "social"}, {"LOWER": "worker"}]}
+{"label":"SKILL|software-architect","pattern":[{"LOWER": "software"}, {"LOWER": "architect"}]}
+{"label":"SKILL|software-developer","pattern":[{"LOWER": "software"}, {"LOWER": "developer"}]}
+{"label":"SKILL|software-engineer","pattern":[{"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|software-tester","pattern":[{"LOWER": "software"}, {"LOWER": "tester"}]}
+{"label":"SKILL|solutions-architect","pattern":[{"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label":"SKILL|sonographer","pattern":[{"LOWER": "sonographer"}]}
+{"label":"SKILL|sound-designer","pattern":[{"LOWER": "sound"}, {"LOWER": "designer"}]}
+{"label":"SKILL|sound-engineer","pattern":[{"LOWER": "sound"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|sous-chef","pattern":[{"LOWER": "sous"}, {"LOWER": "chef"}]}
+{"label":"SKILL|spanish-teacher","pattern":[{"LOWER": "spanish"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|special-agent","pattern":[{"LOWER": "special"}, {"LOWER": "agent"}]}
+{"label":"SKILL|specimen-processor","pattern":[{"LOWER": "specimen"}, {"LOWER": "processor"}]}
+{"label":"SKILL|speech-language-pathologist","pattern":[{"LOWER": "speech"}, {"LOWER": "language"}, {"LOWER": "pathologist"}]}
+{"label":"SKILL|sports","pattern":[{"LOWER": "sports"}]}
+{"label":"SKILL|sports-agent","pattern":[{"LOWER": "sports"}, {"LOWER": "agent"}]}
+{"label":"SKILL|sports-business","pattern":[{"LOWER": "sports"}, {"LOWER": "business"}]}
+{"label":"SKILL|sports-reporter","pattern":[{"LOWER": "sports"}, {"LOWER": "reporter"}]}
+{"label":"SKILL|sql-developer","pattern":[{"LOWER": "sql"}, {"LOWER": "developer"}]}
+{"label":"SKILL|staff-accountant","pattern":[{"LOWER": "staff"}, {"LOWER": "accountant"}]}
+{"label":"SKILL|staff-writer","pattern":[{"LOWER": "staff"}, {"LOWER": "writer"}]}
+{"label":"SKILL|stage-manager","pattern":[{"LOWER": "stage"}, {"LOWER": "manager"}]}
+{"label":"SKILL|statistician","pattern":[{"LOWER": "statistician"}]}
+{"label":"SKILL|sterile-processing-technician","pattern":[{"LOWER": "sterile"}, {"LOWER": "processing"}, {"LOWER": "technician"}]}
+{"label":"SKILL|stock-clerk","pattern":[{"LOWER": "stock"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|store-manager","pattern":[{"LOWER": "store"}, {"LOWER": "manager"}]}
+{"label":"SKILL|strategist","pattern":[{"LOWER": "strategist"}]}
+{"label":"SKILL|strength-and-conditioning-coach","pattern":[{"LOWER": "strength"}, {"LOWER": "and"}, {"LOWER": "conditioning"}, {"LOWER": "coach"}]}
+{"label":"SKILL|structural-engineer","pattern":[{"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|student-advisor","pattern":[{"LOWER": "student"}, {"LOWER": "advisor"}]}
+{"label":"SKILL|student-nurse","pattern":[{"LOWER": "student"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|stylist","pattern":[{"LOWER": "stylist"}]}
+{"label":"SKILL|substance-abuse-counselor","pattern":[{"LOWER": "substance"}, {"LOWER": "abuse"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|substitute-teacher","pattern":[{"LOWER": "substitute"}, {"LOWER": "teacher"}]}
+{"label":"SKILL|superintendent","pattern":[{"LOWER": "superintendent"}]}
+{"label":"SKILL|supervisor","pattern":[{"LOWER": "supervisor"}]}
+{"label":"SKILL|supply-chain","pattern":[{"LOWER": "supply"}, {"LOWER": "chain"}]}
+{"label":"SKILL|supply-chain-analyst","pattern":[{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|supply-chain-manager","pattern":[{"LOWER": "supply"}, {"LOWER": "chain"}, {"LOWER": "manager"}]}
+{"label":"SKILL|surgeon","pattern":[{"LOWER": "surgeon"}]}
+{"label":"SKILL|surgical-assistant","pattern":[{"LOWER": "surgical"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|surgical-technician","pattern":[{"LOWER": "surgical"}, {"LOWER": "technician"}]}
+{"label":"SKILL|surgical-technologist","pattern":[{"LOWER": "surgical"}, {"LOWER": "technologist"}]}
+{"label":"SKILL|surveillance","pattern":[{"LOWER": "surveillance"}]}
+{"label":"SKILL|surveyor","pattern":[{"LOWER": "surveyor"}]}
+{"label":"SKILL|switchboard-operator","pattern":[{"LOWER": "switchboard"}, {"LOWER": "operator"}]}
+{"label":"SKILL|system-administrator","pattern":[{"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|system-analyst","pattern":[{"LOWER": "system"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|system-engineer","pattern":[{"LOWER": "system"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|systems-administrator","pattern":[{"LOWER": "systems"}, {"LOWER": "administrator"}]}
+{"label":"SKILL|systems-analyst","pattern":[{"LOWER": "systems"}, {"LOWER": "analyst"}]}
+{"label":"SKILL|systems-engineer","pattern":[{"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|tax-accountant","pattern":[{"LOWER": "tax"}, {"LOWER": "accountant"}]}
+{"label":"SKILL|tax-preparer","pattern":[{"LOWER": "tax"}, {"LOWER": "preparer"}]}
+{"label":"SKILL|taxi-driver","pattern":[{"LOWER": "taxi"}, {"LOWER": "driver"}]}
+{"label":"SKILL|teacher","pattern":[{"LOWER": "teacher"}]}
+{"label":"SKILL|teacher-aide","pattern":[{"LOWER": "teacher"}, {"LOWER": "aide"}]}
+{"label":"SKILL|teacher-assistant","pattern":[{"LOWER": "teacher"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|teaching-assistant","pattern":[{"LOWER": "teaching"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|team-leader","pattern":[{"LOWER": "team"}, {"LOWER": "leader"}]}
+{"label":"SKILL|technical-designer","pattern":[{"LOWER": "technical"}, {"LOWER": "designer"}]}
+{"label":"SKILL|technical-director","pattern":[{"LOWER": "technical"}, {"LOWER": "director"}]}
+{"label":"SKILL|technical-recruiter","pattern":[{"LOWER": "technical"}, {"LOWER": "recruiter"}]}
+{"label":"SKILL|technical-writer","pattern":[{"LOWER": "technical"}, {"LOWER": "writer"}]}
+{"label":"SKILL|technician","pattern":[{"LOWER": "technician"}]}
+{"label":"SKILL|telecommunications-technician","pattern":[{"LOWER": "telecommunications"}, {"LOWER": "technician"}]}
+{"label":"SKILL|telemarketer","pattern":[{"LOWER": "telemarketer"}]}
+{"label":"SKILL|telemetry-technician","pattern":[{"LOWER": "telemetry"}, {"LOWER": "technician"}]}
+{"label":"SKILL|territory-manager","pattern":[{"LOWER": "territory"}, {"LOWER": "manager"}]}
+{"label":"SKILL|test-engineer","pattern":[{"LOWER": "test"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|textile-design","pattern":[{"LOWER": "textile"}, {"LOWER": "design"}]}
+{"label":"SKILL|therapist","pattern":[{"LOWER": "therapist"}]}
+{"label":"SKILL|title-clerk","pattern":[{"LOWER": "title"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|title-examiner","pattern":[{"LOWER": "title"}, {"LOWER": "examiner"}]}
+{"label":"SKILL|toolmaker","pattern":[{"LOWER": "toolmaker"}]}
+{"label":"SKILL|tower-climber","pattern":[{"LOWER": "tower"}, {"LOWER": "climber"}]}
+{"label":"SKILL|tower-technician","pattern":[{"LOWER": "tower"}, {"LOWER": "technician"}]}
+{"label":"SKILL|trader","pattern":[{"LOWER": "trader"}]}
+{"label":"SKILL|trainer","pattern":[{"LOWER": "trainer"}]}
+{"label":"SKILL|training-coordinator","pattern":[{"LOWER": "training"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|training-manager","pattern":[{"LOWER": "training"}, {"LOWER": "manager"}]}
+{"label":"SKILL|training-specialist","pattern":[{"LOWER": "training"}, {"LOWER": "specialist"}]}
+{"label":"SKILL|transcriptionist","pattern":[{"LOWER": "transcriptionist"}]}
+{"label":"SKILL|translator","pattern":[{"LOWER": "translator"}]}
+{"label":"SKILL|transportation-manager","pattern":[{"LOWER": "transportation"}, {"LOWER": "manager"}]}
+{"label":"SKILL|transportation-planner","pattern":[{"LOWER": "transportation"}, {"LOWER": "planner"}]}
+{"label":"SKILL|travel-agent","pattern":[{"LOWER": "travel"}, {"LOWER": "agent"}]}
+{"label":"SKILL|travel-consultant","pattern":[{"LOWER": "travel"}, {"LOWER": "consultant"}]}
+{"label":"SKILL|travel-manager","pattern":[{"LOWER": "travel"}, {"LOWER": "manager"}]}
+{"label":"SKILL|treasury","pattern":[{"LOWER": "treasury"}]}
+{"label":"SKILL|truck-driver","pattern":[{"LOWER": "truck"}, {"LOWER": "driver"}]}
+{"label":"SKILL|truck-driving","pattern":[{"LOWER": "truck"}, {"LOWER": "driving"}]}
+{"label":"SKILL|tutor","pattern":[{"LOWER": "tutor"}]}
+{"label":"SKILL|typist","pattern":[{"LOWER": "typist"}]}
+{"label":"SKILL|ui-designer","pattern":[{"LOWER": "ui"}, {"LOWER": "designer"}]}
+{"label":"SKILL|ui-developer","pattern":[{"LOWER": "ui"}, {"LOWER": "developer"}]}
+{"label":"SKILL|ultrasound-technician","pattern":[{"LOWER": "ultrasound"}, {"LOWER": "technician"}]}
+{"label":"SKILL|underwriter","pattern":[{"LOWER": "underwriter"}]}
+{"label":"SKILL|underwriting-assistant","pattern":[{"LOWER": "underwriting"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|unit-clerk","pattern":[{"LOWER": "unit"}, {"LOWER": "clerk"}]}
+{"label":"SKILL|unit-secretary","pattern":[{"LOWER": "unit"}, {"LOWER": "secretary"}]}
+{"label":"SKILL|unity-developer","pattern":[{"LOWER": "unity"}, {"LOWER": "developer"}]}
+{"label":"SKILL|utility-locator","pattern":[{"LOWER": "utility"}, {"LOWER": "locator"}]}
+{"label":"SKILL|utilization-review-nurse","pattern":[{"LOWER": "utilization"}, {"LOWER": "review"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|ux-designer","pattern":[{"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label":"SKILL|valet","pattern":[{"LOWER": "valet"}]}
+{"label":"SKILL|validation-engineer","pattern":[{"LOWER": "validation"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|van-driver","pattern":[{"LOWER": "van"}, {"LOWER": "driver"}]}
+{"label":"SKILL|vet","pattern":[{"LOWER": "vet"}]}
+{"label":"SKILL|veterinarian","pattern":[{"LOWER": "veterinarian"}]}
+{"label":"SKILL|veterinary-assistant","pattern":[{"LOWER": "veterinary"}, {"LOWER": "assistant"}]}
+{"label":"SKILL|veterinary-technician","pattern":[{"LOWER": "veterinary"}, {"LOWER": "technician"}]}
+{"label":"SKILL|vice-president","pattern":[{"LOWER": "vice"}, {"LOWER": "president"}]}
+{"label":"SKILL|video-editor","pattern":[{"LOWER": "video"}, {"LOWER": "editor"}]}
+{"label":"SKILL|video-game-designer","pattern":[{"LOWER": "video"}, {"LOWER": "game"}, {"LOWER": "designer"}]}
+{"label":"SKILL|video-producer","pattern":[{"LOWER": "video"}, {"LOWER": "producer"}]}
+{"label":"SKILL|visual-designer","pattern":[{"LOWER": "visual"}, {"LOWER": "designer"}]}
+{"label":"SKILL|visual-merchandiser","pattern":[{"LOWER": "visual"}, {"LOWER": "merchandiser"}]}
+{"label":"SKILL|volunteer","pattern":[{"LOWER": "volunteer"}]}
+{"label":"SKILL|volunteer-coordinator","pattern":[{"LOWER": "volunteer"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|waiter","pattern":[{"LOWER": "waiter"}]}
+{"label":"SKILL|waitress","pattern":[{"LOWER": "waitress"}]}
+{"label":"SKILL|warehouse","pattern":[{"LOWER": "warehouse"}]}
+{"label":"SKILL|warehouse-associate","pattern":[{"LOWER": "warehouse"}, {"LOWER": "associate"}]}
+{"label":"SKILL|warehouse-manager","pattern":[{"LOWER": "warehouse"}, {"LOWER": "manager"}]}
+{"label":"SKILL|warehouse-supervisor","pattern":[{"LOWER": "warehouse"}, {"LOWER": "supervisor"}]}
+{"label":"SKILL|warehouse-worker","pattern":[{"LOWER": "warehouse"}, {"LOWER": "worker"}]}
+{"label":"SKILL|wastewater-operator","pattern":[{"LOWER": "wastewater"}, {"LOWER": "operator"}]}
+{"label":"SKILL|web-designer","pattern":[{"LOWER": "web"}, {"LOWER": "designer"}]}
+{"label":"SKILL|web-developer","pattern":[{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label":"SKILL|web-development","pattern":[{"LOWER": "web"}, {"LOWER": "development"}]}
+{"label":"SKILL|wedding-coordinator","pattern":[{"LOWER": "wedding"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|welder","pattern":[{"LOWER": "welder"}]}
+{"label":"SKILL|welding-engineer","pattern":[{"LOWER": "welding"}, {"LOWER": "engineer"}]}
+{"label":"SKILL|wellness-coordinator","pattern":[{"LOWER": "wellness"}, {"LOWER": "coordinator"}]}
+{"label":"SKILL|wind-turbine-technician","pattern":[{"LOWER": "wind"}, {"LOWER": "turbine"}, {"LOWER": "technician"}]}
+{"label":"SKILL|wordpress-developer","pattern":[{"LOWER": "wordpress"}, {"LOWER": "developer"}]}
+{"label":"SKILL|wound-care-nurse","pattern":[{"LOWER": "wound"}, {"LOWER": "care"}, {"LOWER": "nurse"}]}
+{"label":"SKILL|writer","pattern":[{"LOWER": "writer"}]}
+{"label":"SKILL|x-ray-technician","pattern":[{"LOWER": "x-ray"}, {"LOWER": "technician"}]}
+{"label":"SKILL|yard-jockey","pattern":[{"LOWER": "yard"}, {"LOWER": "jockey"}]}
+{"label":"SKILL|yoga-instructor","pattern":[{"LOWER": "yoga"}, {"LOWER": "instructor"}]}
+{"label":"SKILL|youth-counselor","pattern":[{"LOWER": "youth"}, {"LOWER": "counselor"}]}
+{"label":"SKILL|assistent-manager","pattern":[{"LOWER": "assistent"}, {"LOWER": "manager"}]}

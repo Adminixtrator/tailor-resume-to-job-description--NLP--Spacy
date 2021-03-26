@@ -1,0 +1,90 @@
+﻿HERITAGE SADIQ
+	+2347056643929 
+https://linkedin.com/in/Adminixtrator
+240241, Kwara State, Nigeria sadiqherritage@gmail.com
+	
+
+
+
+	
+
+PROFESSIONAL SUMMARY
+	Highly motivated Software Engineer - Mobile Developer. Proficient in Python, C, C++ and Dart. With experience in Django, Machine learning, Cloud Services, MLOps and Software Development; utilizing efficient communication, leadership and network skills to promote company advancements and boost overall performance. I believe I would be a valuable asset to your esteemed organization.
+	
+
+EXPERIENCE
+	Team Lead  >>  GADS(Andela)
+Jun 2020 to Jan 2021
+* Led a software development team of 13 members during the community projects to build one of the top 100 projects remotely in a fast-paced environment.
+* Maintained smooth relations between team members through effective and efficient collaboration with my strong teamwork skills.
+* Interfaced effectively with project team members, including mentors on slack to resolve issues, discuss ideas and collaborate with my problem solving skills.
+Associate Cloud Developer  >>  GADS(Andela)
+Jun 2020 to Jan 2021
+* Learned how to use the Google Cloud Platform for various operations, including containers.
+* Worked on a project and communicated with individuals from other parts of the world remotely.
+Freelance Developer
+Feb 2020 to Feb 2021
+* Proven work experience in product development and mobile applications, ranging from Cross-platform mobile development (android, iOS), to building and deploying machine learning models to systems. See GitHub Profile
+* Implementing design from Figma to build mobile applications which correspond to the UI as given and optimizing; which includes making tests, for the best user experience, with clean code.
+* Conversance with the technology trends with dart and also flutter libraries.
+* Evaluating and debugging mobile applications to optimize performance.
+DevOps Intern   >>  VGG Internship
+Jan 2020 to Jun 2020
+* During the internship, I was taught about the fundamentals of Developer Operations. The internship was based on a more practical experience of DevOps.
+Machine Learning Intern   >>  HNGInternships
+Aug 2019 to Nov 2019
+* During the internship, I was taught how to successfully build models out of Algorithms and successfully deploy the models to products. 
+* I had the opportunity of building object classification models, recommender systems, including building on the GPT-2.
+Co-Lead   >>  Developer Student Club (Kwara State University)
+Oct 2019 till Present
+* On campus, alongside my colleagues, we teach students in the tech community how to write code, alongside hosting events to expose them to different opportunities in different stacks. 
+	
+
+SKILLS
+	
+
+* RestAPI
+* Flask
+* Android
+* Dart
+* APIs
+* Flutter
+* Problem solving
+* Team work
+* Communication
+* Leadership
+	* Linux
+* AWS
+* GCP
+* CI/CD
+* MLOps
+* Git
+* JavaScript
+* Python
+* Machine Learning
+	
+
+	
+
+EDUCATION
+	Kwara State University, Nigeria.
+B.Eng Electrical and Computer
+Engineering (Undergrad)
+	
+
+CERTIFICATIONS
+	* Python 3 course - Udemy
+* Flutter Advanced Course  - Udemy
+* Deep Learning  - IBM
+* AWS Fundamental Course  -  Udacity
+* Getting started with AWS Machine Learning  -  Coursera
+* Data Science Orientation  -  Coursera
+* Deep Learning with Tensorflow  - Cognitive Class(IBM)
+* MTM Badge  -  IBM
+* Machine Learning Developer  - HNGInternships
+	
+
+INTERESTS
+	* Android
+* De-Fi
+* AI
