@@ -1,4 +1,4 @@
-_"Remember, a few hours of trial and error can save you several minutes of looking at the README"_
+_"Sure, I drink brake fluid. But I can stop anytime!"_
 -------------
 
 Create a virtual environment
