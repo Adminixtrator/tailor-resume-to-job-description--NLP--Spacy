@@ -32,7 +32,7 @@ class TextExtract():
         doc = Document(file)
         for l in doc.paragraphs:
             content = content + '\n' + l.text
-        return content.strip(), content.strip().replace("\n", " ").replace(bullet_regex, "").replace("\t", " ")
+        return content.strip(), clean_text(content.strip().replace("\n", " ").replace(bullet_regex, "").replace("\t", " "))
     
     def extract_text_from_txt(file):
         with open(file) as job:
