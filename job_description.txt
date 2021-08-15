@@ -1,34 +1,70 @@
-We are looking for a Mobile developer who will join our Engineering team to develop and maintain high quality mobile applications. You will also collaborate with other internal teams to develop functional mobile applications and support existing mobile products of our company.
+Data Scientist focused on data analysis for web based investment management application suite for Bank of New York Mellons Wealth Management division. This will be a critical role working on a next generation web based platform for BNY Mellons wealth clients. As a data scientist, you will be embedded with the engineering team as the primary subject matter expert realated to data analysis, natural language processing and machine learning for the platform. The role will give the chosen candidate the opportunity to take on a wide ranging opportunity at a fast growing organization within the firm where you will be able to take on many responsibilities in a highly visibile role.
+Development of
+
+Flutter developer
+full-time
+
+Company: PM Partners
+
+Specialization
+
+Android
+
+Description
+
+Our company PM Parnters is looking for a talented Flutter developer
+
+You will have the opportunity to work on cool projects in the field of B2B business, develop, work in a friendly team.
+
+Format of work: office Kiev, Kharkov, Odessa or remote.
+Employment: full
+Salary fork: we discuss individually, we are ready to pay with dignity
+
+Important
+Flutter experience - at least 2 years
+Experience in mobile development at least 4 years (development for iOS will be a plus)
+Git
+Jira \ Confluence
+
+English level
+
+Intermediate
+
+Do you want to receive similar vacancies? Subscribe to our daily Telegram newsletter!
+
+Subscribe to Telegram
+Date of publication:
+2021-04-19 06:32:10
+
+Location:
+Ukraine
+
+The salary:
+1500-3500 $
+
+Work:
+Remote
+Qualifications
+Strong Statistical and Mathematical Background
+
+Proficient in performing data analysis, using python based libraries such as Pandas and Numpy
+
+Strong understanding of Machine Learning algorithms: Supervised Learning and Unsupervised Learning
+
+Understanding of reinforcement learning
+
+Understanding of TensorFlow
+
+Good Understanding of Natural Language processing using Spacy and other python libraries
+
+Understanding of web crawling using python libraries such as Scrapy
+
+Good understanding of developing RestAPI using Flask and/or FastAPI
+
+Desired – Experience in Tableau visualization
 
 
-You should have significant experience in mobile development and be able to perform efficiently in a fast-paced environment. We also expect you to be passionate about mobile platforms and translating code into user-friendly apps. 
 
-
-Responsibilities:
-
-Develop fully functional mobile applications writing clean code
-Create and execute unit and UI tests to identify malfunctions
-Support the entire application lifecycle, including concept, design, test, release and support phases
-Retrieve specific requirements and suggest solutions to improve user experience
-Evaluate and debug mobile applications to optimize their performance
-Work together with Product Development team to plan new features
-Support legacy applications and suggest ways to improve or replace them
-Oversee the compliance of applications with established quality standards
-Find and suggest new mobile products, applications and protocols
-Stay informed about new technology trends
- 
-
-Required Skills:
-
-2+ years' experience of working in a Mobile Developer position
-Published applications on the App store or the Android market
-Solid experience with at least one programming language such as Swift, Java, Dart, or JavaScript
-Good experience with third-party libraries and APIs
-Strong analytical skills with a good problem-solving attitude
-Strong teamwork skills with ability to perform well in a dynamic environment
-
-Additional Assets:
-
-Experience with Flutter and Dart
-Some exposure to using or developing with AWS services (Lambdas, S3, Route 53, etc...)
-Experience building REST services
+BNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer.
+Minorities/Females/Individuals With Disabilities/Protected Veterans.
+Our ambition is to build the best global team – one that is representative and inclusive of the diverse talent, clients and communities we work with and serve – and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums.

@@ -1952,7 +1952,6 @@
 {"label":"SKILL|telecommunications","pattern":[{"LOWER":"telecommunications"}]}
 {"label":"SKILL|telecommunications-network","pattern":[{"LOWER":"telecommunications"},{"LOWER":"network"}]}
 {"label":"SKILL|telecommunications-service","pattern":[{"LOWER":"telecommunications"},{"LOWER":"service"}]}
-{"label":"SKILL|telegram","pattern":[{"LOWER":"telegram"}]}
 {"label":"SKILL|telegram-bot-api","pattern":[{"LOWER":"telegram"},{"LOWER":"bot"},{"LOWER":"api"}]}
 {"label":"SKILL|telephony","pattern":[{"LOWER":"telephony"}]}
 {"label":"SKILL|template-matching","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
